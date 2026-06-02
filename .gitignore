@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Build output
+dist/
+build/
+
+# Don't ignore API files (they should be committed)
+!api/
+
+# Don't ignore images (they should be in LFS)
+!images/

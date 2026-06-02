@@ -1,0 +1,36 @@
+{
+  "name": "temple-api",
+  "version": "1.0.0",
+  "description": "Open-source REST API for LDS temple data",
+  "main": "scripts/scrape_temples.js",
+  "scripts": {
+    "scrape": "node scripts/scrape_temples.js",
+    "validate": "node scripts/validate_data.js",
+    "build": "node scripts/build_api.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SmootAR/temple-api.git"
+  },
+  "keywords": [
+    "lds",
+    "mormon",
+    "temple",
+    "church",
+    "api",
+    "rest",
+    "jesus-christ"
+  ],
+  "author": "Alan R. Smoot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmootAR/temple-api/issues"
+  },
+  "homepage": "https://smootar.github.io/temple-api",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

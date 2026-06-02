@@ -1,0 +1,9 @@
+# Git LFS configuration for temple images
+images/*.jpg filter=lfs diff=lfs merge=lfs -text
+images/*.jpeg filter=lfs diff=lfs merge=lfs -text
+images/*.png filter=lfs diff=lfs merge=lfs -text
+images/*.webp filter=lfs diff=lfs merge=lfs -text
+images/thumbs/*.jpg filter=lfs diff=lfs merge=lfs -text
+images/thumbs/*.jpeg filter=lfs diff=lfs merge=lfs -text
+images/thumbs/*.png filter=lfs diff=lfs merge=lfs -text
+images/thumbs/*.webp filter=lfs diff=lfs merge=lfs -text

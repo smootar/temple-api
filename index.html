@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temple API - LDS Temple Data REST API</title>
+    <meta name="description" content="Open-source REST API providing comprehensive data for temples of The Church of Jesus Christ of Latter-day Saints">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            padding: 3rem 0;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.25rem;
+            opacity: 0.9;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            padding: 2rem;
+            margin: 2rem 0;
+        }
+
+        h2 {
+            color: #667eea;
+            margin-bottom: 1rem;
+            font-size: 1.75rem;
+        }
+
+        .endpoint {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 4px;
+        }
+
+        .endpoint code {
+            display: block;
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        pre {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 1rem 0;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 1.5rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 8px;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            display: block;
+        }
+
+        .stat-label {
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .feature {
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+
+        .feature h3 {
+            color: #667eea;
+            margin-bottom: 0.5rem;
+        }
+
+        a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            padding: 2rem 0;
+            opacity: 0.9;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: #48bb78;
+            color: white;
+            border-radius: 12px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏛️ Temple API</h1>
+            <p class="subtitle">Open-source REST API for temple data</p>
+            <p class="subtitle">The Church of Jesus Christ of Latter-day Saints</p>
+        </header>
+
+        <div class="card">
+            <h2>Quick Start</h2>
+            <p>Access comprehensive temple data via our JSON REST API:</p>
+
+            <div class="endpoint">
+                <code>GET /api/v1/temples.json</code>
+                <p>Returns all temples with basic information</p>
+            </div>
+
+            <div class="endpoint">
+                <code>GET /api/v1/temples/{temple-id}.json</code>
+                <p>Returns detailed information for a specific temple</p>
+            </div>
+
+            <div class="endpoint">
+                <code>GET /api/v1/temples/dedicated.json</code>
+                <p>Returns only dedicated temples</p>
+            </div>
+
+            <p style="margin-top: 1.5rem;">
+                <strong>Example:</strong>
+                <a href="./api/v1/temples/salt-lake-temple.json">View Salt Lake Temple data</a>
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Statistics</h2>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number" id="total-count">217+</span>
+                    <span class="stat-label">Total Temples</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="dedicated-count">217+</span>
+                    <span class="stat-label">Dedicated</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">Weekly</span>
+                    <span class="stat-label">Auto-updates</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">100%</span>
+                    <span class="stat-label">Free & Open</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Features</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h3>✅ Complete Data</h3>
+                    <p>All 217+ dedicated temples with comprehensive information</p>
+                </div>
+                <div class="feature">
+                    <h3>🖼️ High-Quality Images</h3>
+                    <p>Official temple images hosted via GitHub LFS</p>
+                </div>
+                <div class="feature">
+                    <h3>🔄 Auto-Updates</h3>
+                    <p>Weekly automated data refresh every Monday</p>
+                </div>
+                <div class="feature">
+                    <h3>📍 Coordinates</h3>
+                    <p>GPS coordinates for mapping applications</p>
+                </div>
+                <div class="feature">
+                    <h3>📅 Timeline Data</h3>
+                    <p>Announcement, groundbreaking, and dedication dates</p>
+                </div>
+                <div class="feature">
+                    <h3>🔓 MIT Licensed</h3>
+                    <p>Free for any use - commercial or personal</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Example Response</h2>
+            <pre>{
+  "id": "salt-lake-temple",
+  "name": "Salt Lake Temple",
+  "location": "Salt Lake City, Utah, USA",
+  "status": "Dedicated",
+  "timeline": [
+    {
+      "milestone": "Dedicated",
+      "date": "April 6, 1893",
+      "by": "Wilford Woodruff"
+    }
+  ],
+  "coordinates": {
+    "latitude": 40.7704,
+    "longitude": -111.8918
+  },
+  "facts": [
+    "Construction took 40 years to complete",
+    "Features six spires with the tallest at 210 feet"
+  ],
+  "image": "/images/salt-lake-temple.jpg",
+  "thumbnail": "/images/thumbs/salt-lake-temple.jpg"
+}</pre>
+        </div>
+
+        <div class="card">
+            <h2>Data Sources</h2>
+            <p>All data is sourced from official Church websites:</p>
+            <ul style="margin-left: 1.5rem; margin-top: 1rem;">
+                <li><a href="https://churchofjesuschristtemples.org/temples/" target="_blank">churchofjesuschristtemples.org</a></li>
+                <li><a href="https://www.churchofjesuschrist.org/temples" target="_blank">churchofjesuschrist.org</a></li>
+            </ul>
+            <p style="margin-top: 1rem;">Updated automatically every Monday at 3:15 AM UTC-11.</p>
+        </div>
+
+        <div class="card">
+            <h2>Documentation</h2>
+            <p>For complete API documentation, usage examples, and contribution guidelines:</p>
+            <p style="margin-top: 1rem;">
+                <a href="https://github.com/SmootAR/temple-api">📚 View on GitHub</a>
+            </p>
+        </div>
+
+        <footer>
+            <p><strong>Disclaimer:</strong> This is an independent project and is not affiliated with or endorsed by The Church of Jesus Christ of Latter-day Saints.</p>
+            <p style="margin-top: 0.5rem;">MIT Licensed • <a href="https://github.com/SmootAR/temple-api" style="color: white;">GitHub</a></p>
+        </footer>
+    </div>
+
+    <script>
+        // Try to load actual stats from API
+        fetch('./api/v1/temples.json')
+            .then(res => res.json())
+            .then(data => {
+                const total = data.temples ? data.temples.length : data.length;
+                document.getElementById('total-count').textContent = total;
+
+                const dedicated = data.temples ?
+                    data.temples.filter(t => t.status === 'Dedicated').length :
+                    data.filter(t => t.status === 'Dedicated').length;
+                document.getElementById('dedicated-count').textContent = dedicated;
+            })
+            .catch(err => {
+                console.log('Stats will be available after first data scrape');
+            });
+    </script>
+</body>
+</html>
