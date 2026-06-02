@@ -74,17 +74,21 @@ log('Fetching temple list from churchofjesuschristtemples.org...')
 const templeListPrompt = `
 Visit https://churchofjesuschristtemples.org/temples/ and extract ALL temple listings.
 
+CRITICAL: The page shows "385 Total" temples. You MUST scroll down and load ALL temples before extracting.
+
 For each temple, extract:
 1. Name (full temple name)
 2. URL (link to the temple's detail page)
 3. Status (Dedicated, Under Construction, or Announced)
 
-Return a complete list of ALL temples on the page. There should be 200+ temples.
-
 IMPORTANT:
-- Include ALL temples, not just a sample
+- The page has lazy-loading or infinite scroll - keep scrolling until all temples load
+- There should be approximately 217 Dedicated + 61 Under Construction + 107 Announced = 385 total
+- Do NOT stop at 200-300 temples - get ALL 385
 - Extract the full URL for each temple
-- Correctly identify the status based on the page indicators
+- Correctly identify the status based on the page indicators (look for status badges/labels)
+
+Return the COMPLETE list. If you get less than 350 temples, you haven't scrolled enough.
 `
 
 const templeList = await agent(templeListPrompt, {
@@ -99,19 +103,37 @@ if (!templeList || !templeList.temples || templeList.temples.length === 0) {
 
 log(`✅ Discovered ${templeList.temples.length} temples`)
 
-// Filter to dedicated temples only for initial release
-const dedicatedTemples = templeList.temples.filter(t => t.status === 'Dedicated')
-log(`📊 Filtering to ${dedicatedTemples.length} dedicated temples`)
+// Validate we got all temples
+if (templeList.temples.length < 350) {
+  log(`⚠️  WARNING: Only found ${templeList.temples.length} temples, expected ~385`)
+  log('⚠️  The scraper may have missed some temples due to pagination/lazy-loading')
+}
+
+// Count by status
+const statusCounts = {
+  dedicated: templeList.temples.filter(t => t.status === 'Dedicated').length,
+  underConstruction: templeList.temples.filter(t => t.status === 'Under Construction').length,
+  announced: templeList.temples.filter(t => t.status === 'Announced').length
+}
+
+log(`📊 By Status:`)
+log(`   • Dedicated: ${statusCounts.dedicated} (expected ~217)`)
+log(`   • Under Construction: ${statusCounts.underConstruction} (expected ~61)`)
+log(`   • Announced: ${statusCounts.announced} (expected ~107)`)
+
+// Don't filter - scrape ALL temples
+const templeToScrape = templeList.temples
+log(`📋 Will scrape all ${templeToScrape.length} temples`)
 
 // ========================================
 // Phase 2: Scrape individual temples in parallel
 // ========================================
 phase('Scrape')
 
-log(`Scraping ${dedicatedTemples.length} temple pages in parallel...`)
+log(`Scraping ${templeToScrape.length} temple pages in parallel...`)
 
 const scrapedTemples = await pipeline(
-  dedicatedTemples,
+  templeToScrape,
 
   // Stage 1: Scrape each temple's detail page
   temple => agent(
