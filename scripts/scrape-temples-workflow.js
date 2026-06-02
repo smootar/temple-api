@@ -101,7 +101,7 @@ log(`✅ Discovered ${templeList.temples.length} temples`)
 
 // Filter to dedicated temples only for initial release
 const dedicatedTemples = templeList.temples.filter(t => t.status === 'Dedicated')
-log(`📊 Filtering to ${dedicatedTemples.temples.length} dedicated temples`)
+log(`📊 Filtering to ${dedicatedTemples.length} dedicated temples`)
 
 // ========================================
 // Phase 2: Scrape individual temples in parallel
