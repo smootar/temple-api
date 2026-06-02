@@ -190,7 +190,7 @@ Return comprehensive, accurate data.`,
 )
 
 const successfulScrapes = scrapedTemples.filter(Boolean)
-log(`✅ Successfully scraped ${successfulScrapes.length}/${dedicatedTemples.length} temples`)
+log(`✅ Successfully scraped ${successfulScrapes.length}/${templeToScrape.length} temples`)
 
 if (successfulScrapes.length === 0) {
   return { error: 'All scraping attempts failed' }
