@@ -49,7 +49,7 @@
   <script src="../../../nearest-temples.js"></script>
   <script>
     const VALID_STATUSES = ['Dedicated', 'Announced', 'Under Construction', 'Operating', 'Closed for renovation', 'all'];
-    const MAX_N = 100;
+    const MAX_RANGE = 500;
 
     function syntaxHighlight(json) {
       return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+\.?\d*([eE][+-]?\d+)?)/g, match => {
@@ -69,42 +69,67 @@
     }
 
     const params = new URLSearchParams(window.location.search);
-    const latRaw = params.get('lat');
-    const lngRaw = params.get('lng');
-    const nRaw   = params.get('n') || '5';
-    const status = params.get('status') || 'Dedicated';
+    const latRaw  = params.get('lat');
+    const lngRaw  = params.get('lng');
+    const fromRaw = params.get('from');
+    const toRaw   = params.get('to');
+    const nRaw    = params.get('n');
+    const status  = params.get('status') || 'Dedicated';
 
     if (latRaw === null || lngRaw === null) {
       respond({
         error: 'Missing required parameters: lat and lng',
         usage: {
-          endpoint: '/api/v1/nearest/?lat={lat}&lng={lng}&n={n}&status={status}',
+          endpoint: '/api/v1/nearest/?lat={lat}&lng={lng}&from={from}&to={to}&status={status}',
           parameters: {
             lat:    'required  — decimal latitude  (-90 to 90)',
             lng:    'required  — decimal longitude (-180 to 180)',
-            n:      'optional  — number of results to return (default: 5, max: ' + MAX_N + ')',
+            from:   'optional  — 1-indexed start of range (default: 1)',
+            to:     'optional  — 1-indexed end of range, inclusive (default: 10)',
+            n:      'optional  — shorthand for from=1&to=n (ignored when from/to present)',
             status: 'optional  — filter by temple status (default: Dedicated)',
           },
           status_options: VALID_STATUSES,
-          example: '/api/v1/nearest/?lat=40.7608&lng=-111.8910&n=5&status=Dedicated'
+          examples: [
+            '/api/v1/nearest/?lat=40.7608&lng=-111.8910&from=1&to=10',
+            '/api/v1/nearest/?lat=40.7608&lng=-111.8910&from=11&to=20&status=Dedicated',
+            '/api/v1/nearest/?lat=40.7608&lng=-111.8910&from=50&to=100&status=all',
+            '/api/v1/nearest/?lat=40.7608&lng=-111.8910&n=5',
+          ]
         }
       });
     } else {
       const lat = parseFloat(latRaw);
       const lng = parseFloat(lngRaw);
-      const n   = Math.min(Math.max(parseInt(nRaw, 10) || 5, 1), MAX_N);
+
+      // Resolve from/to — range params take precedence over n
+      let from, to;
+      if (fromRaw !== null || toRaw !== null) {
+        from = Math.max(parseInt(fromRaw, 10) || 1, 1);
+        to   = toRaw !== null ? parseInt(toRaw, 10) : from + 9;
+      } else if (nRaw !== null) {
+        from = 1;
+        to   = parseInt(nRaw, 10) || 10;
+      } else {
+        from = 1;
+        to   = 10;
+      }
 
       const errors = [];
-      if (isNaN(lat) || lat < -90  || lat > 90)   errors.push('lat must be a number between -90 and 90');
-      if (isNaN(lng) || lng < -180 || lng > 180)  errors.push('lng must be a number between -180 and 180');
-      if (!VALID_STATUSES.includes(status))        errors.push('status must be one of: ' + VALID_STATUSES.join(', '));
+      if (isNaN(lat) || lat < -90  || lat > 90)    errors.push('lat must be a number between -90 and 90');
+      if (isNaN(lng) || lng < -180 || lng > 180)   errors.push('lng must be a number between -180 and 180');
+      if (!VALID_STATUSES.includes(status))         errors.push('status must be one of: ' + VALID_STATUSES.join(', '));
+      if (isNaN(from) || from < 1)                  errors.push('from must be a positive integer');
+      if (isNaN(to)   || to < from)                 errors.push('to must be >= from');
+      if ((to - from + 1) > MAX_RANGE)              errors.push('range span cannot exceed ' + MAX_RANGE);
 
       if (errors.length) {
         respond({ error: errors.join('; ') });
       } else {
-        const temples = TempleAPI.findNearestTemples(lat, lng, n, { status });
+        const temples = TempleAPI.findNearestTemples(lat, lng, null, { status, from, to });
         respond({
-          query: { lat, lng, n, status },
+          query: { lat, lng, from, to, status },
+          range: from + '-' + to,
           count: temples.length,
           temples
         });

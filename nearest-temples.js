@@ -10,8 +10,21 @@
     return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   }
 
+  // options: { status, from, to, n }
+  //   from/to — 1-indexed range (inclusive). Default: from=1, to=10.
+  //   n       — shorthand for from=1, to=n. Ignored when from/to are provided.
   function findNearestTemples(lat, lng, n, options) {
     const status = (options && options.status != null) ? options.status : 'Dedicated';
+
+    var from, to;
+    if (options && (options.from != null || options.to != null)) {
+      from = (options.from != null) ? options.from : 1;
+      to   = (options.to   != null) ? options.to   : from + 9;
+    } else {
+      from = 1;
+      to   = (n != null) ? n : 10;
+    }
+
     const data =
       (typeof window !== 'undefined' && window.TEMPLES_DATA) ||
       (typeof require !== 'undefined' ? require('./temples-data.json') : []);
@@ -24,7 +37,7 @@
       t => t.coordinates && t.coordinates.latitude != null && t.coordinates.longitude != null
     );
 
-    return temples
+    const sorted = temples
       .map(t => {
         const km = haversineDistance(lat, lng, t.coordinates.latitude, t.coordinates.longitude);
         return Object.assign({}, t, {
@@ -32,8 +45,9 @@
           distance_miles: Math.round(km * 0.621371 * 10) / 10
         });
       })
-      .sort((a, b) => a.distance_km - b.distance_km)
-      .slice(0, n);
+      .sort((a, b) => a.distance_km - b.distance_km);
+
+    return sorted.slice(from - 1, to);
   }
 
   if (typeof module !== 'undefined' && module.exports) {
