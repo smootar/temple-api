@@ -1,0 +1,58 @@
+name: Update Temple Data
+
+# Runs every Monday at 3:15 AM UTC-11 (which is 2:15 PM UTC)
+on:
+  schedule:
+    - cron: '15 14 * * 1'  # 14:15 UTC on Mondays = 3:15 AM UTC-11
+  workflow_dispatch:  # Allow manual triggers
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true  # Enable Git LFS for images
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run temple data scraper
+        run: node scripts/scrape_temples.js
+        env:
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
+
+      - name: Commit and push if changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config user.name "Temple API Bot"
+          git config user.email "temple-api-bot@users.noreply.github.com"
+          git commit -m "chore: automated weekly data update [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: No changes
+        if: steps.changes.outputs.changes == 'false'
+        run: echo "No updates needed - data is current"
