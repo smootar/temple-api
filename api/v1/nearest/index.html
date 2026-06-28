@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nearest Temples — Temple API</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0f1117;
+      color: #c9d1d9;
+      padding: 2rem;
+      min-height: 100vh;
+    }
+    .header {
+      color: #58a6ff;
+      font-size: 0.85rem;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1rem;
+    }
+    .header a { color: #58a6ff; text-decoration: none; }
+    .header a:hover { text-decoration: underline; }
+    pre {
+      background: #161b22;
+      padding: 1.5rem;
+      border-radius: 6px;
+      border: 1px solid #21262d;
+      overflow: auto;
+      line-height: 1.6;
+      font-size: 0.9rem;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .key { color: #79c0ff; }
+    .string { color: #a5d6ff; }
+    .number { color: #f2cc60; }
+    .boolean { color: #ff7b72; }
+    .null { color: #ff7b72; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="../../../">Temple API</a> / api / v1 / nearest
+  </div>
+  <pre id="output">Loading...</pre>
+
+  <script src="../../../temples-data.js"></script>
+  <script src="../../../nearest-temples.js"></script>
+  <script>
+    const VALID_STATUSES = ['Dedicated', 'Announced', 'Under Construction', 'Operating', 'Closed for renovation', 'all'];
+    const MAX_N = 100;
+
+    function syntaxHighlight(json) {
+      return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+\.?\d*([eE][+-]?\d+)?)/g, match => {
+        if (/^"/.test(match)) {
+          return match.endsWith(':')
+            ? '<span class="key">' + match + '</span>'
+            : '<span class="string">' + match + '</span>';
+        }
+        if (/true|false/.test(match)) return '<span class="boolean">' + match + '</span>';
+        if (/null/.test(match)) return '<span class="null">' + match + '</span>';
+        return '<span class="number">' + match + '</span>';
+      });
+    }
+
+    function respond(obj) {
+      document.getElementById('output').innerHTML = syntaxHighlight(JSON.stringify(obj, null, 2));
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const latRaw = params.get('lat');
+    const lngRaw = params.get('lng');
+    const nRaw   = params.get('n') || '5';
+    const status = params.get('status') || 'Dedicated';
+
+    if (latRaw === null || lngRaw === null) {
+      respond({
+        error: 'Missing required parameters: lat and lng',
+        usage: {
+          endpoint: '/api/v1/nearest/?lat={lat}&lng={lng}&n={n}&status={status}',
+          parameters: {
+            lat:    'required  — decimal latitude  (-90 to 90)',
+            lng:    'required  — decimal longitude (-180 to 180)',
+            n:      'optional  — number of results to return (default: 5, max: ' + MAX_N + ')',
+            status: 'optional  — filter by temple status (default: Dedicated)',
+          },
+          status_options: VALID_STATUSES,
+          example: '/api/v1/nearest/?lat=40.7608&lng=-111.8910&n=5&status=Dedicated'
+        }
+      });
+    } else {
+      const lat = parseFloat(latRaw);
+      const lng = parseFloat(lngRaw);
+      const n   = Math.min(Math.max(parseInt(nRaw, 10) || 5, 1), MAX_N);
+
+      const errors = [];
+      if (isNaN(lat) || lat < -90  || lat > 90)   errors.push('lat must be a number between -90 and 90');
+      if (isNaN(lng) || lng < -180 || lng > 180)  errors.push('lng must be a number between -180 and 180');
+      if (!VALID_STATUSES.includes(status))        errors.push('status must be one of: ' + VALID_STATUSES.join(', '));
+
+      if (errors.length) {
+        respond({ error: errors.join('; ') });
+      } else {
+        const temples = TempleAPI.findNearestTemples(lat, lng, n, { status });
+        respond({
+          query: { lat, lng, n, status },
+          count: temples.length,
+          temples
+        });
+      }
+    }
+  </script>
+</body>
+</html>
