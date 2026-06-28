@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Temple Gallery - All 230 Temples</title>
+    <title>Temple Gallery - All Temples</title>
     <style>
         * {
             margin: 0;
@@ -194,7 +194,7 @@
             color: #22543d;
         }
 
-        .status-construction {
+        .status-under-construction {
             background: #feebc8;
             color: #7c2d12;
         }
@@ -202,6 +202,16 @@
         .status-announced {
             background: #bee3f8;
             color: #2c5282;
+        }
+
+        .status-operating {
+            background: #d6f0d6;
+            color: #1a4731;
+        }
+
+        .status-closed-for-renovation {
+            background: #f0e0f0;
+            color: #5a2d82;
         }
 
         .temple-timeline {
@@ -307,12 +317,20 @@
                     <span class="stat-label">Dedicated</span>
                 </div>
                 <div class="stat">
+                    <span class="stat-number" id="operating-count">0</span>
+                    <span class="stat-label">Operating</span>
+                </div>
+                <div class="stat">
                     <span class="stat-number" id="construction-count">0</span>
                     <span class="stat-label">Under Construction</span>
                 </div>
                 <div class="stat">
                     <span class="stat-number" id="announced-count">0</span>
                     <span class="stat-label">Announced</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="renovation-count">0</span>
+                    <span class="stat-label">Closed for Renovation</span>
                 </div>
             </div>
         </header>
@@ -324,8 +342,10 @@
             <div class="filter-buttons">
                 <button class="filter-btn active" data-status="all">All</button>
                 <button class="filter-btn" data-status="Dedicated">Dedicated</button>
+                <button class="filter-btn" data-status="Operating">Operating</button>
                 <button class="filter-btn" data-status="Under Construction">Under Construction</button>
                 <button class="filter-btn" data-status="Announced">Announced</button>
+                <button class="filter-btn" data-status="Closed for renovation">Closed for Renovation</button>
             </div>
         </div>
 
@@ -334,32 +354,34 @@
         </div>
     </div>
 
+    <script src="temples-data.js"></script>
     <script>
         let allTemples = [];
         let currentFilter = 'all';
         let searchQuery = '';
 
-        // Load temple data
-        fetch('temples-data.json')
-            .then(res => res.json())
-            .then(temples => {
-                allTemples = temples;
-                updateStats();
-                renderTemples();
-            })
-            .catch(err => {
-                document.getElementById('gallery').innerHTML =
-                    '<div class="no-results">❌ Error loading temple data: ' + err.message + '</div>';
-            });
+        // Load temple data from the pre-bundled script (works on file:// without a server)
+        if (window.TEMPLES_DATA) {
+            allTemples = window.TEMPLES_DATA;
+            updateStats();
+            renderTemples();
+        } else {
+            document.getElementById('gallery').innerHTML =
+                '<div class="no-results">❌ Error loading temple data: temples-data.js not found</div>';
+        }
 
         function updateStats() {
             document.getElementById('total-count').textContent = allTemples.length;
             document.getElementById('dedicated-count').textContent =
                 allTemples.filter(t => t.status === 'Dedicated').length;
+            document.getElementById('operating-count').textContent =
+                allTemples.filter(t => t.status === 'Operating').length;
             document.getElementById('construction-count').textContent =
                 allTemples.filter(t => t.status === 'Under Construction').length;
             document.getElementById('announced-count').textContent =
                 allTemples.filter(t => t.status === 'Announced').length;
+            document.getElementById('renovation-count').textContent =
+                allTemples.filter(t => t.status === 'Closed for renovation').length;
         }
 
         function renderTemples() {
@@ -398,7 +420,7 @@
                     <div class="temple-content">
                         <h2 class="temple-name">${temple.name}</h2>
                         <div class="temple-location">📍 ${temple.location}</div>
-                        <span class="temple-status status-${temple.status.toLowerCase().replace(' ', '-')}">${temple.status}</span>
+                        <span class="temple-status status-${temple.status.toLowerCase().replace(/\s+/g, '-')}">${temple.status}</span>
 
                         ${temple.timeline && temple.timeline.length > 0 ? `
                             <div class="temple-timeline">

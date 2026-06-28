@@ -52,11 +52,11 @@
   {
     "id": "abidjan-ivory-coast-temple",
     "name": "Abidjan Ivory Coast Temple",
-    "location": "Abidjan, C\u00f4te d'Ivoire",
-    "country": "C\u00f4te d'Ivoire",
+    "location": "Abidjan, Côte d'Ivoire",
+    "country": "Côte d'Ivoire",
     "state": "Cocody",
     "status": "Dedicated",
-    "address": "Lot 118 Riviera Attoban, Bonoumin, Cocody, Abidjan, C\u00f4te d'Ivoire",
+    "address": "Lot 118 Riviera Attoban, Bonoumin, Cocody, Abidjan, Côte d'Ivoire",
     "coordinates": {
       "latitude": 5.3599,
       "longitude": -3.9699
@@ -544,7 +544,7 @@
       "Interior design features the distinctive Flor de Texao Arequipa motif throughout, celebrating local Arequipa artistic traditions.",
       "The temple includes elegant Perlantino marble tiling imported from Italy and multi-colored woolen rugs from China.",
       "Total floor area is 26,969 square feet (2,506 square meters) with two instruction rooms, two sealing rooms, and one baptistry.",
-      "Landscaping includes native Peruvian plants such as the cantuta flower (national flower of Peru) and que\u00f1ua tree.",
+      "Landscaping includes native Peruvian plants such as the cantuta flower (national flower of Peru) and queñua tree.",
       "The temple was the 167th operating temple of the Church when dedicated in 2019.",
       "The public open house ran for 15 days from November 15-30, 2019, allowing the community to tour the temple before dedication."
     ],
@@ -552,12 +552,12 @@
   },
   {
     "id": "asuncion-paraguay-temple",
-    "name": "Asunci\u00f3n Paraguay Temple",
-    "location": "Asunci\u00f3n, Paraguay",
+    "name": "Asunción Paraguay Temple",
+    "location": "Asunción, Paraguay",
     "country": "Paraguay",
-    "state": "Asunci\u00f3n",
+    "state": "Asunción",
     "status": "Dedicated",
-    "address": "Avda Brasilia Esquina Avda Espa\u00f1a, Asunci\u00f3n, Paraguay",
+    "address": "Avda Brasilia Esquina Avda España, Asunción, Paraguay",
     "coordinates": {
       "latitude": -25.287916,
       "longitude": -57.602869
@@ -593,7 +593,7 @@
       "First temple built in Paraguay and the 112th operating temple of the Church",
       "Built on the site of the first LDS meetinghouse in Paraguay, constructed in 1964",
       "Exterior is light gray Asa Branca Brazilian granite with a single attached spire crowned by an Angel Moroni statue",
-      "After its dedication, every Spanish and Portuguese-speaking nation in South America had an operating temple, a milestone reached 24 years after the first South American temple in S\u00e3o Paulo Brazil in 1978",
+      "After its dedication, every Spanish and Portuguese-speaking nation in South America had an operating temple, a milestone reached 24 years after the first South American temple in São Paulo Brazil in 1978",
       "Total floor area of 11,906 square feet (1,106 square meters) with a height of 71 feet 4 inches (21.7 meters)",
       "Features two instruction rooms in a two-stage progressive format, two sealing rooms, and one baptistry",
       "Site covers 1.13 acres (0.5 hectares) at an elevation of 356 feet (109 meters)",
@@ -717,7 +717,7 @@
       "Features a single attached end spire rising 176 feet 9 inches (53.9 meters) tall",
       "Built on an 11.37-acre (4.6 hectares) site at an elevation of 196 feet (60 meters)",
       "Total floor area of 45,456 square feet (4,223 square meters) with four instruction rooms, three sealing rooms, and one baptistry",
-      "Exterior clad in granite with Art Deco style influences incorporating New Zealand flora motifs and M\u0101ori basket weave patterns",
+      "Exterior clad in granite with Art Deco style influences incorporating New Zealand flora motifs and Māori basket weave patterns",
       "Interior design uses colors representing the paua shell, a culturally significant element in New Zealand",
       "Landscaping includes 250 large native trees to reflect the natural beauty of New Zealand",
       "The 203rd operating temple of The Church of Jesus Christ of Latter-day Saints"
@@ -803,7 +803,7 @@
   },
   {
     "id": "bahia-blanca-argentina-temple",
-    "name": "Bah\u00eda Blanca Argentina Temple",
+    "name": "Bahía Blanca Argentina Temple",
     "location": "Bahia Blanca, Argentina",
     "country": "Argentina",
     "state": "Buenos Aires",
@@ -947,11 +947,11 @@
   {
     "id": "barcelona-spain-temple",
     "name": "Barcelona Spain Temple",
-    "location": "Sant Cugat del Vall\u00e8s, Barcelona, Spain",
+    "location": "Sant Cugat del Vallès, Barcelona, Spain",
     "country": "Spain",
     "state": "Barcelona",
     "status": "Announced",
-    "address": "Avinguda de la V\u00eda Augusta y Avinguda de la Clota, Sant Cugat del Vall\u00e8s, Barcelona, Spain",
+    "address": "Avinguda de la Vía Augusta y Avinguda de la Clota, Sant Cugat del Vallès, Barcelona, Spain",
     "coordinates": {},
     "timeline": [
       {
@@ -967,7 +967,7 @@
     ],
     "facts": [
       "The Barcelona Spain Temple will be the second temple built in Spain, serving over 61,000 Church members in the country.",
-      "The temple site covers 5.4 acres (2.2 hectares) at an elevation of 572 feet (175 meters) in Sant Cugat del Vall\u00e8s.",
+      "The temple site covers 5.4 acres (2.2 hectares) at an elevation of 572 feet (175 meters) in Sant Cugat del Vallès.",
       "The temple will have approximately 27,500 square feet (2,555 square meters) of total floor area with a single attached end tower design.",
       "An ancillary building of approximately 13,600 square feet will include patron housing, an arrival center, and a distribution center.",
       "The first Spanish Latter-day Saint joined the Church around 1870, and the Church was officially recognized in Spain in 1968.",
@@ -1010,7 +1010,7 @@
       }
     ],
     "facts": [
-      "Second temple built in Colombia, following the Bogot\u00e1 Colombia Temple",
+      "Second temple built in Colombia, following the Bogotá Colombia Temple",
       "The 161st operating temple of The Church of Jesus Christ of Latter-day Saints",
       "Built on a 5.93-acre (2.4 hectares) site in Puerto Colombia, near the Magdalena River",
       "Features a limestone exterior finish and stands 107 feet (32.6 meters) tall at an elevation of 174 feet (53 meters)",
@@ -1116,12 +1116,12 @@
   },
   {
     "id": "belem-brazil-temple",
-    "name": "Bel\u00e9m Brazil Temple",
-    "location": "Bel\u00e9m, Par\u00e1, Brazil",
+    "name": "Belém Brazil Temple",
+    "location": "Belém, Pará, Brazil",
     "country": "Brazil",
-    "state": "Par\u00e1",
+    "state": "Pará",
     "status": "Dedicated",
-    "address": "Av. Centen\u00e1rio da Assembleia de Deus, 2200, Parque Verde, 66635-894 Bel\u00e9m\u2013PA, Brazil",
+    "address": "Av. Centenário da Assembleia de Deus, 2200, Parque Verde, 66635-894 Belém–PA, Brazil",
     "coordinates": {
       "latitude": -1.387242,
       "longitude": -48.459894
@@ -1150,7 +1150,7 @@
     ],
     "facts": [
       "The 9th temple built in Brazil and the 174th temple dedicated worldwide by the Church",
-      "Announced in 2016 during Bel\u00e9m's 400th anniversary year, serving a metropolitan area of over 2 million people",
+      "Announced in 2016 during Belém's 400th anniversary year, serving a metropolitan area of over 2 million people",
       "Features Brazilian granite exterior with decorative motifs inspired by local indigenous pottery",
       "Art glass showcases the Victoria amazonica water lily, and the color palette reflects the Amazon rainforest with blue, green, yellow, and pink tones",
       "Covers 6.7 acres with 28,675 square feet of floor space, standing 89 feet tall with a single central spire topped by the Angel Moroni statue",
@@ -1167,7 +1167,7 @@
     "status": "Under Construction",
     "country": "Brazil",
     "state": "Minas Gerais",
-    "address": "Rua Professor Jose Vieira de Mendon\u00e7a, 1485, Engenho Nogueira, Belo Horizonte-MG, Brazil",
+    "address": "Rua Professor Jose Vieira de Mendonça, 1485, Engenho Nogueira, Belo Horizonte-MG, Brazil",
     "coordinates": {
       "latitude": -19.8968,
       "longitude": -43.9378
@@ -1573,7 +1573,7 @@
     "facts": [
       "First temple built in the Dakotas, serving members across a vast temple district",
       "Total floor area of 10,700 square feet (994 square meters) on a 1.6-acre site",
-      "Features granite veneer from Qu\u00e9bec, a single attached spire, and an Angel Moroni statue",
+      "Features granite veneer from Québec, a single attached spire, and an Angel Moroni statue",
       "Contains 2 instruction rooms (two-stage progressive), 2 sealing rooms, and 1 baptistry",
       "Sits at an elevation of 1,850 feet (564 meters) above sea level",
       "Significantly reduced travel time for members who previously made 16-hour trips to Chicago temple",
@@ -1583,8 +1583,8 @@
   },
   {
     "id": "bogota-colombia-temple",
-    "name": "Bogot\u00e1 Colombia Temple",
-    "location": "Bogot\u00e1, Distrito Capital, Colombia",
+    "name": "Bogotá Colombia Temple",
+    "location": "Bogotá, Distrito Capital, Colombia",
     "country": "Colombia",
     "state": "Distrito Capital",
     "status": "Dedicated",
@@ -1615,14 +1615,14 @@
         "by": "Gordon B. Hinckley"
       }
     ],
-    "address": "Carrera 46 N\u00b0127-45, Bogot\u00e1, Distrito Capital, Colombia",
+    "address": "Carrera 46 N°127-45, Bogotá, Distrito Capital, Colombia",
     "coordinates": {
       "latitude": 4.707801,
       "longitude": -74.056247
     },
     "facts": [
-      "The Bogot\u00e1 Colombia Temple was the 5th temple built in South America and the 1st temple built in Colombia, serving as the 57th operating temple of the Church.",
-      "Construction took over 9 years from announcement (April 1984) to groundbreaking (June 1993) due to challenges finding a suitable temple site in Bogot\u00e1.",
+      "The Bogotá Colombia Temple was the 5th temple built in South America and the 1st temple built in Colombia, serving as the 57th operating temple of the Church.",
+      "Construction took over 9 years from announcement (April 1984) to groundbreaking (June 1993) due to challenges finding a suitable temple site in Bogotá.",
       "The temple sits at an elevation of 8,371 feet (2,552 meters) above sea level, making it one of the highest-elevation temples in the Church.",
       "The exterior is finished with beautiful Brazilian Asa Branca granite, and the temple features a single attached end spire topped with an Angel Moroni statue standing 124 feet tall.",
       "The temple spans 53,500 square feet on a 3.71-acre site and includes 4 instruction rooms (two-stage progressive ordinance system), 3 sealing rooms, and 1 baptistry.",
@@ -1782,12 +1782,12 @@
   },
   {
     "id": "brasilia-brazil-temple",
-    "name": "Bras\u00edlia Brazil Temple",
-    "location": "Bras\u00edlia, Federal District, Brazil",
+    "name": "Brasília Brazil Temple",
+    "location": "Brasília, Federal District, Brazil",
     "country": "Brazil",
     "state": "Federal District",
     "status": "Dedicated",
-    "address": "SGAN 612 \u2013 M\u00f3dulo \"C\" \u2013 Asa Norte, 70.830-550 Brasilia\u2013DF, Brazil",
+    "address": "SGAN 612 – Módulo \"C\" – Asa Norte, 70.830-550 Brasilia–DF, Brazil",
     "coordinates": {
       "latitude": -15.747835,
       "longitude": -47.880945
@@ -1820,9 +1820,9 @@
       }
     ],
     "facts": [
-      "The Bras\u00edlia Brazil Temple is the 10th temple built in Brazil and the first in the Federal District",
+      "The Brasília Brazil Temple is the 10th temple built in Brazil and the first in the Federal District",
       "The temple is constructed with white Brazilian marble exterior and features a single attached central spire",
-      "Interior finishes include Paran\u00e1 white marble floors with Bahia blue stone accents, and Brazilian native jequitib\u00e1 wood used throughout the carpentry",
+      "Interior finishes include Paraná white marble floors with Bahia blue stone accents, and Brazilian native jequitibá wood used throughout the carpentry",
       "The temple features hand-colored stained glass windows and three original artworks depicting biblical and Brazilian scenes",
       "Total floor area is 25,000 square feet (2,323 square meters) with two instruction rooms, two sealing rooms, and one baptistry",
       "Built at an elevation of 3,387 feet (1,032 meters) on a 6-acre site",
@@ -1837,7 +1837,7 @@
     "country": "Republic of the Congo",
     "state": "Bacongo",
     "status": "Under Construction",
-    "address": "Avenue de la Republique (formerly 103 and 109 Rue Lamonth\u00e9), Bacongo, Brazzaville, Republic of the Congo",
+    "address": "Avenue de la Republique (formerly 103 and 109 Rue Lamonthé), Bacongo, Brazzaville, Republic of the Congo",
     "coordinates": {},
     "timeline": [
       {
@@ -2043,7 +2043,7 @@
     "country": "Hungary",
     "state": "",
     "status": "Under Construction",
-    "address": "Kocsis S\u00e1ndor \u00fat and Borsikaf\u0171 utca, Hars\u00e1nylejt\u0151, Budapest, Hungary",
+    "address": "Kocsis Sándor út and Borsikafű utca, Harsánylejtő, Budapest, Hungary",
     "coordinates": {
       "latitude": 47.57024544,
       "longitude": 19.00634892
@@ -2057,12 +2057,12 @@
       {
         "milestone": "Site Dedicated",
         "date": "June 21, 2025",
-        "by": "Elder Rub\u00e9n V. Alliaud"
+        "by": "Elder Rubén V. Alliaud"
       },
       {
         "milestone": "Groundbreaking",
         "date": "June 21, 2025",
-        "by": "Elder Rub\u00e9n V. Alliaud"
+        "by": "Elder Rubén V. Alliaud"
       }
     ],
     "facts": [
@@ -2075,7 +2075,7 @@
       "Members previously traveled to Freiberg Germany Temple for worship",
       "Construction expected to take three years from groundbreaking",
       "16th temple built in Europe",
-      "Located at an elevation of 474 feet (145 meters) in the Hars\u00e1nylejt\u0151 neighborhood",
+      "Located at an elevation of 474 feet (145 meters) in the Harsánylejtő neighborhood",
       "Architectural rendering released to the public on March 4, 2024"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/budapest-hungary-temple/budapest-hungary-temple-58578-main.jpg"
@@ -2087,7 +2087,7 @@
     "country": "Argentina",
     "state": "Buenos Aires",
     "status": "Dedicated",
-    "address": "Aut. Tte. Gral. Riccheri N\u00b0 4955, B1778DUA Ciudad Evita, Buenos Aires, Argentina",
+    "address": "Aut. Tte. Gral. Riccheri N° 4955, B1778DUA Ciudad Evita, Buenos Aires, Argentina",
     "coordinates": {
       "latitude": -34.729286,
       "longitude": -58.518225
@@ -2140,7 +2140,7 @@
     "country": "Argentina",
     "state": "Buenos Aires",
     "status": "Announced",
-    "address": "Avenida Cordoba Esquina Reconquista, San Nicol\u00e1s, Buenos Aires, Argentina",
+    "address": "Avenida Cordoba Esquina Reconquista, San Nicolás, Buenos Aires, Argentina",
     "coordinates": {
       "latitude": -34.59917085,
       "longitude": -58.37306
@@ -2163,8 +2163,8 @@
       }
     ],
     "facts": [
-      "Will be Argentina's sixth temple, joining Buenos Aires Argentina Temple (1986), C\u00f3rdoba Argentina Temple (2015), Salta Argentina Temple, Mendoza Argentina Temple, and one other temple",
-      "Located in the San Nicol\u00e1s neighborhood of downtown Buenos Aires at the intersection of Avenida C\u00f3rdoba and Reconquista",
+      "Will be Argentina's sixth temple, joining Buenos Aires Argentina Temple (1986), Córdoba Argentina Temple (2015), Salta Argentina Temple, Mendoza Argentina Temple, and one other temple",
+      "Located in the San Nicolás neighborhood of downtown Buenos Aires at the intersection of Avenida Córdoba and Reconquista",
       "Site size is 1.56 acres (0.6 hectares) at an elevation of 42 feet (13 meters)",
       "Features a single attached central spire design",
       "Will include a reproduction of the Christus statue on the temple grounds",
@@ -2463,11 +2463,11 @@
   {
     "id": "campinas-brazil-temple",
     "name": "Campinas Brazil Temple",
-    "location": "Campinas, S\u00e3o Paulo, Brazil",
+    "location": "Campinas, São Paulo, Brazil",
     "status": "Dedicated",
     "country": "Brazil",
-    "state": "S\u00e3o Paulo",
-    "address": "Rua James Esdras Faust, 400, Notre Dame, 13092-820 Campinas\u2013SP, Brazil",
+    "state": "São Paulo",
+    "address": "Rua James Esdras Faust, 400, Notre Dame, 13092-820 Campinas–SP, Brazil",
     "coordinates": {
       "latitude": -22.8833,
       "longitude": -47.0667
@@ -2498,12 +2498,12 @@
     "facts": [
       "The Campinas Brazil Temple is the 111th dedicated temple of The Church of Jesus Christ of Latter-day Saints and the fourth temple built in Brazil.",
       "The temple sits on 6.18 acres (2.5 hectares) at an elevation of 2,446 feet (746 meters) on a hillside, making it visible from many parts of Campinas.",
-      "The exterior features light gray Asa Branca granite quarried from Cear\u00e1 state in northeastern Brazil, with a single attached central spire topped with an Angel Moroni statue.",
+      "The exterior features light gray Asa Branca granite quarried from Ceará state in northeastern Brazil, with a single attached central spire topped with an Angel Moroni statue.",
       "The temple has a total floor area of 48,100 square feet (4,469 square meters) and includes 4 instruction rooms (two-stage progressive), 3 sealing rooms, and 1 baptistry.",
       "At the groundbreaking ceremony on May 1, 1998, Elder W. Craig Zwick described it as a 'Pentecostal' gathering with approximately 50 buses transporting faithful saints to the event.",
       "The street where the temple is located, Rua James Esdras Faust, is named after Elder James E. Faust who presided at the groundbreaking ceremony.",
       "Over 28,000 visitors attended the 21-day public open house held from April 20 to May 11, 2002, before the temple's dedication.",
-      "The Campinas Brazil Temple is the second temple built in S\u00e3o Paulo state, serving members throughout the Campinas region and surrounding areas."
+      "The Campinas Brazil Temple is the second temple built in São Paulo state, serving members throughout the Campinas region and surrounding areas."
     ]
   },
   {
@@ -2533,8 +2533,8 @@
   },
   {
     "id": "cancun-mexico-temple",
-    "name": "Canc\u00fan Mexico Temple",
-    "location": "Canc\u00fan, Quintana Roo, Mexico",
+    "name": "Cancún Mexico Temple",
+    "location": "Cancún, Quintana Roo, Mexico",
     "status": "Announced",
     "country": "Mexico",
     "state": "Quintana Roo",
@@ -2552,8 +2552,8 @@
     ],
     "facts": [
       "Will be the 24th temple built in Mexico, a country with nearly 1.5 million Latter-day Saints in over 1,800 congregations",
-      "First temple to be built in the state of Quintana Roo on the eastern coast of the Yucat\u00e1n Peninsula",
-      "Located in Canc\u00fan, a metropolitan area with over 1 million population, serving as a major tourist destination and cultural center",
+      "First temple to be built in the state of Quintana Roo on the eastern coast of the Yucatán Peninsula",
+      "Located in Cancún, a metropolitan area with over 1 million population, serving as a major tourist destination and cultural center",
       "Announced during the October 2023 General Conference as part of a historic announcement of 20 new temples worldwide",
       "Missionary work of the Church in Mexico began in 1875, establishing a long history of Latter-day Saint presence in the region"
     ],
@@ -2643,7 +2643,7 @@
       {
         "milestone": "Groundbreaking/Site Dedication",
         "date": "January 10, 1999",
-        "by": "Francisco J. Vi\u00f1as"
+        "by": "Francisco J. Viñas"
       },
       {
         "milestone": "Public Open House",
@@ -3093,12 +3093,12 @@
   },
   {
     "id": "ciudad-juarez-mexico-temple",
-    "name": "Ciudad Ju\u00e1rez Mexico Temple",
-    "location": "Ciudad Ju\u00e1rez, Chihuahua, Mexico",
+    "name": "Ciudad Juárez Mexico Temple",
+    "location": "Ciudad Juárez, Chihuahua, Mexico",
     "country": "Mexico",
     "state": "Chihuahua",
     "status": "Dedicated",
-    "address": "Calle Paraguay #290, Esq. Jos\u00e9 Borunda, Col. Partido Romero, 32177 Ciudad Ju\u00e1rez, Chihuahua, Mexico",
+    "address": "Calle Paraguay #290, Esq. José Borunda, Col. Partido Romero, 32177 Ciudad Juárez, Chihuahua, Mexico",
     "coordinates": {
       "latitude": 31.6904,
       "longitude": -106.4245
@@ -3127,7 +3127,7 @@
       }
     ],
     "facts": [
-      "The Ciudad Ju\u00e1rez Mexico Temple is the third temple built in Mexico and the second in the state of Chihuahua, serving approximately 12,000 church members across five stakes in the border region.",
+      "The Ciudad Juárez Mexico Temple is the third temple built in Mexico and the second in the state of Chihuahua, serving approximately 12,000 church members across five stakes in the border region.",
       "The temple features a distinctive white marble veneer exterior with a single attached spire crowned by an Angel Moroni statue, standing at an elevation of 3,709 feet (1,131 meters).",
       "With a total floor area of 10,700 square feet, the temple includes two instruction rooms operating in a two-stage progressive format, two sealing rooms, and one baptistry.",
       "The temple was built on a 1.64-acre site and was the 71st temple dedicated by The Church of Jesus Christ of Latter-day Saints, with dedication sessions presided over by President Gordon B. Hinckley and President Thomas S. Monson.",
@@ -3177,12 +3177,12 @@
   },
   {
     "id": "coban-guatemala-temple",
-    "name": "Cob\u00e1n Guatemala Temple",
-    "location": "Cob\u00e1n, Alta Verapaz, Guatemala",
+    "name": "Cobán Guatemala Temple",
+    "location": "Cobán, Alta Verapaz, Guatemala",
     "country": "Guatemala",
     "state": "Alta Verapaz",
     "status": "Dedicated",
-    "address": "4\u00aa. Avenida 4-48 Zona 8, Barrio Bella Vista, Cob\u00e1n, Alta Verapaz, Guatemala",
+    "address": "4ª. Avenida 4-48 Zona 8, Barrio Bella Vista, Cobán, Alta Verapaz, Guatemala",
     "coordinates": {
       "latitude": 15.459077,
       "longitude": -90.365166
@@ -3218,7 +3218,7 @@
       "Third temple built in Guatemala, serving members in the Alta Verapaz region",
       "Total floor area of 8,772 square feet (815 square meters) with a height of 80 feet (24.4 meters)",
       "Features a single attached end tower with exterior finish of painted hand-troweled stucco and stone",
-      "Located at an elevation of 4,346 feet (1,325 meters) on a 2.1-acre site adjacent to the Cob\u00e1n 2nd Ward meetinghouse",
+      "Located at an elevation of 4,346 feet (1,325 meters) on a 2.1-acre site adjacent to the Cobán 2nd Ward meetinghouse",
       "Includes one instruction room, one sealing room, one baptistry, an arrival center, on-site distribution center, and patron housing facilities",
       "The 193rd dedicated temple of The Church of Jesus Christ of Latter-day Saints"
     ],
@@ -3365,12 +3365,12 @@
   },
   {
     "id": "colonia-juarez-chihuahua-mexico-temple",
-    "name": "Colonia Ju\u00e1rez Chihuahua Mexico Temple",
-    "location": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
+    "name": "Colonia Juárez Chihuahua Mexico Temple",
+    "location": "Colonia Juárez, Chihuahua, Mexico",
     "country": "Mexico",
     "state": "Chihuahua",
     "status": "Dedicated",
-    "address": "Chihuahua y Diaz S/N, 31857 Colonia Ju\u00e1rez, Chihuahua, Mexico",
+    "address": "Chihuahua y Diaz S/N, 31857 Colonia Juárez, Chihuahua, Mexico",
     "coordinates": {
       "latitude": 30.305251,
       "longitude": -108.082038
@@ -3605,12 +3605,12 @@
   },
   {
     "id": "concepcion-chile-temple",
-    "name": "Concepci\u00f3n Chile Temple",
-    "location": "Concepci\u00f3n, Bio-Bio, Chile",
+    "name": "Concepción Chile Temple",
+    "location": "Concepción, Bio-Bio, Chile",
     "country": "Chile",
     "state": "Bio-Bio",
     "status": "Dedicated",
-    "address": "1525 Pedro de Valdivia, Concepci\u00f3n, Bio-Bio, Chile",
+    "address": "1525 Pedro de Valdivia, Concepción, Bio-Bio, Chile",
     "coordinates": {
       "latitude": -36.851499,
       "longitude": -73.049966
@@ -3639,7 +3639,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "October 17, 2015",
-        "by": "Elder Walter F. Gonz\u00e1lez"
+        "by": "Elder Walter F. González"
       },
       {
         "milestone": "Public Open House",
@@ -3706,12 +3706,12 @@
   },
   {
     "id": "cordoba-argentina-temple",
-    "name": "C\u00f3rdoba Argentina Temple",
-    "location": "C\u00f3rdoba, Argentina",
+    "name": "Córdoba Argentina Temple",
+    "location": "Córdoba, Argentina",
     "country": "Argentina",
-    "state": "C\u00f3rdoba",
+    "state": "Córdoba",
     "status": "Dedicated",
-    "address": "Avenida Pedro Laplace 5637, CP5021 C\u00f3rdoba, Argentina",
+    "address": "Avenida Pedro Laplace 5637, CP5021 Córdoba, Argentina",
     "coordinates": {
       "latitude": -31.358873,
       "longitude": -64.245809
@@ -3740,8 +3740,8 @@
       }
     ],
     "facts": [
-      "The C\u00f3rdoba Argentina Temple is the 145th operating temple of The Church of Jesus Christ of Latter-day Saints and the second temple built in Argentina.",
-      "The exterior is finished with light grey granite that was quarried in C\u00f3rdoba and milled in Buenos Aires, making it a truly local construction.",
+      "The Córdoba Argentina Temple is the 145th operating temple of The Church of Jesus Christ of Latter-day Saints and the second temple built in Argentina.",
+      "The exterior is finished with light grey granite that was quarried in Córdoba and milled in Buenos Aires, making it a truly local construction.",
       "The temple sits on 5.18 acres (2.1 hectares) at an elevation of 1,447 feet (441 meters) and has a total floor area of 34,369 square feet (3,193 square meters).",
       "The temple features a single attached central spire topped with a gold-leafed Angel Moroni statue, and includes 2 instruction rooms, 2 sealing rooms, and 1 baptistry.",
       "Located next to the Villa Belgrano meetinghouse, the temple serves Church members in Argentina, with roots tracing back to European emigrants who began teaching in the 1920s and the first convert baptisms occurring in 1925, just six days after missionaries arrived."
@@ -3754,7 +3754,7 @@
     "country": "Mexico",
     "state": "Morelos",
     "status": "Announced",
-    "address": "Calle Hern\u00e1n Cortes and Calle Santa Prisca, Colonia Vista Hermosa, Cuernavaca, Morelos, Mexico",
+    "address": "Calle Hernán Cortes and Calle Santa Prisca, Colonia Vista Hermosa, Cuernavaca, Morelos, Mexico",
     "coordinates": {
       "latitude": 18.9186,
       "longitude": -99.2342
@@ -3787,12 +3787,12 @@
   },
   {
     "id": "culiacan-mexico-temple",
-    "name": "Culiac\u00e1n Mexico Temple",
-    "location": "Culiac\u00e1n, Sinaloa, Mexico",
+    "name": "Culiacán Mexico Temple",
+    "location": "Culiacán, Sinaloa, Mexico",
     "country": "Mexico",
     "state": "Sinaloa",
     "status": "Announced",
-    "address": "Avenida Milenium, Near Culiac\u00e1n River, Between Miguel Tamayo Espinoza de los Monteros and Boulevard Jos\u00e9 Mar\u00eda Figueroa D\u00edaz, Culiac\u00e1n, Sinaloa, Mexico",
+    "address": "Avenida Milenium, Near Culiacán River, Between Miguel Tamayo Espinoza de los Monteros and Boulevard José María Figueroa Díaz, Culiacán, Sinaloa, Mexico",
     "coordinates": {
       "latitude": 24.79184902,
       "longitude": -107.44189
@@ -3810,20 +3810,20 @@
       }
     ],
     "facts": [
-      "The temple site is located on 5 acres (2.0 hectares) near the Culiac\u00e1n River at an elevation of 97 feet (30 meters).",
+      "The temple site is located on 5 acres (2.0 hectares) near the Culiacán River at an elevation of 97 feet (30 meters).",
       "The temple will have a total floor area of 10,000 square feet (929 square meters) with a single-story design and one attached central tower.",
       "The temple will include one instruction room, one sealing room, and one baptistry for performing sacred ordinances.",
       "An adjacent patron housing building is planned as part of the temple complex to accommodate temple patrons.",
-      "The site is located on Avenida Milenium between Miguel Tamayo Espinoza de los Monteros and Boulevard Jos\u00e9 Mar\u00eda Figueroa D\u00edaz in Culiac\u00e1n, Sinaloa."
+      "The site is located on Avenida Milenium between Miguel Tamayo Espinoza de los Monteros and Boulevard José María Figueroa Díaz in Culiacán, Sinaloa."
     ],
     "imageUrl": "https://www.churchofjesuschristtemples.org/assets/img/temples/culiacan-mexico-temple/culiacan-mexico-temple-69549-main.jpg"
   },
   {
     "id": "curitiba-brazil-temple",
     "name": "Curitiba Brazil Temple",
-    "location": "Curitiba, Paran\u00e1, Brazil",
+    "location": "Curitiba, Paraná, Brazil",
     "country": "Brazil",
-    "state": "Paran\u00e1",
+    "state": "Paraná",
     "status": "Dedicated",
     "timeline": [
       {
@@ -3847,7 +3847,7 @@
         "by": "Thomas S. Monson"
       }
     ],
-    "address": "Rua Deputado Heitor Alencar Furtado, 3641, Mossungu\u00ea, 81200-110",
+    "address": "Rua Deputado Heitor Alencar Furtado, 3641, Mossunguê, 81200-110",
     "coordinates": {
       "latitude": -25.441304,
       "longitude": -49.342138
@@ -3855,7 +3855,7 @@
     "facts": [
       "Fifth temple built in Brazil and the 126th operating temple of the Church worldwide",
       "Features a single attached end spire with angel Moroni statue standing 125 feet 2 inches (38.2 meters) tall",
-      "Exterior constructed of Sienna white granite sourced from Esp\u00edrito Santo state over reinforced concrete",
+      "Exterior constructed of Sienna white granite sourced from Espírito Santo state over reinforced concrete",
       "Contains two instruction rooms, two sealing rooms, and one baptistry with a total floor area of 27,850 square feet (2,587 square meters)",
       "Site covers 8.15 acres (3.3 hectares) at an elevation of 3,145 feet (959 meters) in the Campo Comprido district of western Curitiba",
       "The temple's floor plan was reused for the Vancouver British Columbia Temple and Manaus Brazil Temple",
@@ -3994,7 +3994,7 @@
       "This is the first temple built in Mindanao, representing significant growth of the Church in the region with over 780,000 members at the time of announcement.",
       "The temple site covers 2.7 acres (1.1 hectares) with a total floor area of 18,450 square feet (1,714 square meters).",
       "The temple stands 122 feet 4 inches (37.3 meters) tall at an elevation of 68 feet (21 meters), featuring a single attached end tower.",
-      "The design is inspired by traditional Filipino pi\u00f1a embroidery, incorporating this cultural element into the temple's aesthetic.",
+      "The design is inspired by traditional Filipino piña embroidery, incorporating this cultural element into the temple's aesthetic.",
       "The exterior features stone cladding on the main portion and spire, with a fiberglass resin dome and painted steel fence.",
       "The temple includes two instruction rooms, two sealing rooms, and one baptistry, with construction utilizing a cast-in-place concrete frame.",
       "Interior design features a color palette of whites and creams with art glass in pinks, purples, and greens, brass and crystal lighting fixtures, African mahogany doors and millwork, and custom flooring with marble and porcelain tiles."
@@ -4469,7 +4469,10 @@
     "state": "Nevada",
     "status": "Dedicated",
     "address": "Ruby Vista Drive, Elko, Nevada, United States",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 40.8613351,
+      "longitude": -115.743017
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -4687,8 +4690,8 @@
       "Built on 6.63 acres with 29,066 square feet of total floor area, including two instruction rooms, two sealing rooms, and one baptistry",
       "Located at 5,638 feet elevation, making it one of the higher-altitude temples in the Church",
       "Design incorporates Native American influences throughout, including feather patterns, organic chevron and diamond patterns, geometric line work, and stepped pyramid shapes",
-      "Interior features draw inspiration from local flora including the pi\u00f1on pine cone and globemallow flower, with carpet in muted turquoise, honey gold, cream, and beige tones",
-      "Millwork crafted from sapele wood features native geometric patterns and pi\u00f1on pine cone floral motifs that continue throughout doors, hardware, and decorative elements",
+      "Interior features draw inspiration from local flora including the piñon pine cone and globemallow flower, with carpet in muted turquoise, honey gold, cream, and beige tones",
+      "Millwork crafted from sapele wood features native geometric patterns and piñon pine cone floral motifs that continue throughout doors, hardware, and decorative elements",
       "Ceiling medallions constructed of glass-fiber-reinforced gypsum incorporate native floral design motifs and geometric stepping patterns in the baptistry, brides' room, sealing rooms, and celestial room",
       "Art glass created by Holdman Studios enhances the temple's artistic elements",
       "Landscape design influenced by geometric shapes found in local architecture, with bronze Ameristar fencing complementing the walkways and plazas"
@@ -4775,12 +4778,12 @@
   },
   {
     "id": "florianopolis-brazil-temple",
-    "name": "Florian\u00f3polis Brazil Temple",
-    "location": "S\u00e3o Jos\u00e9, Santa Catarina, Brazil",
+    "name": "Florianópolis Brazil Temple",
+    "location": "São José, Santa Catarina, Brazil",
     "country": "Brazil",
     "state": "Santa Catarina",
     "status": "Announced",
-    "address": "Rua Cassol, 1120, Kobrasol, S\u00e3o Jos\u00e9, Santa Catarina, Brazil",
+    "address": "Rua Cassol, 1120, Kobrasol, São José, Santa Catarina, Brazil",
     "coordinates": {
       "latitude": -27.59219248,
       "longitude": -48.61723
@@ -4800,7 +4803,7 @@
     "facts": [
       "Will be the 23rd temple in Brazil, serving nearly 1.5 million Latter-day Saints and approximately 2,175 congregations",
       "Site spans 5.5 acres (2.2 hectares) at an elevation of 32 feet (10 meters)",
-      "Located across the street from the S\u00e3o Jos\u00e9 stake center in the Kobrasol neighborhood",
+      "Located across the street from the São José stake center in the Kobrasol neighborhood",
       "Site is currently undergoing fencing and ground preparations in the planning and approval phase",
       "At the time of announcement, Brazil had 10 dedicated temples, 2 under construction, and 10 announced temples"
     ],
@@ -4939,7 +4942,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "June 18, 2011",
-        "by": "Elder Walter F. Gonz\u00e1lez"
+        "by": "Elder Walter F. González"
       },
       {
         "milestone": "Angel Moroni Statue Raised",
@@ -5021,12 +5024,15 @@
   {
     "id": "fortaleza-brazil-temple",
     "name": "Fortaleza Brazil Temple",
-    "location": "Fortaleza, Cear\u00e1, Brazil",
+    "location": "Fortaleza, Ceará, Brazil",
     "country": "Brazil",
-    "state": "Cear\u00e1",
+    "state": "Ceará",
     "status": "Dedicated",
     "address": "Avenida Santos Dumont 7771, Bairro de Lourdes, 60177-415 Fortaleza-CE, Brazil",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": -3.7477845,
+      "longitude": -38.4610596
+    },
     "timeline": [
       {
         "date": "October 3, 2009",
@@ -5050,7 +5056,7 @@
       }
     ],
     "facts": [
-      "The Fortaleza Brazil Temple is the 7th temple built in Brazil and the first temple in Cear\u00e1 state.",
+      "The Fortaleza Brazil Temple is the 7th temple built in Brazil and the first temple in Ceará state.",
       "It was the first temple dedicated outside the United States by a native apostle (Elder Ulisses Soares).",
       "The temple features a single attached end tower with an Angel Moroni statue and is finished with Branco Ceara granite.",
       "Built on 10 acres (4.0 hectares) in the coastal Dunas neighborhood, the temple has a total floor area of 36,000 square feet (3,345 square meters) with an elevation of 202 feet (62 meters).",
@@ -5365,11 +5371,11 @@
   },
   {
     "id": "goiania-brazil-temple",
-    "name": "Goi\u00e2nia Brazil Temple",
-    "location": "Goi\u00e2nia, Goi\u00e1s, Brazil",
+    "name": "Goiânia Brazil Temple",
+    "location": "Goiânia, Goiás, Brazil",
     "status": "Announced",
     "country": "Brazil",
-    "state": "Goi\u00e1s",
+    "state": "Goiás",
     "address": "Address not yet announced",
     "coordinates": {
       "latitude": 0,
@@ -5385,8 +5391,8 @@
     "facts": [
       "Will be the 21st temple in Brazil when completed",
       "Announced by President Russell M. Nelson during the October 2023 General Conference",
-      "Located in Goi\u00e2nia, the capital and largest city of Goi\u00e1s state",
-      "Goi\u00e2nia has a population of approximately 2.9 million people",
+      "Located in Goiânia, the capital and largest city of Goiás state",
+      "Goiânia has a population of approximately 2.9 million people",
       "Situated in the central-west region of Brazil",
       "No official temple rendering has been released to the public yet",
       "The specific temple site location has not been announced",
@@ -5549,7 +5555,7 @@
       }
     ],
     "facts": [
-      "Exterior is finished with Blanco Guardiano white marble quarried from Torre\u00f3n, Mexico, giving the temple a brilliant white appearance",
+      "Exterior is finished with Blanco Guardiano white marble quarried from Torreón, Mexico, giving the temple a brilliant white appearance",
       "The temple stands 71 feet tall with a single attached spire topped by a statue of the Angel Moroni",
       "Total floor area is 10,700 square feet with 2 instruction rooms (two-stage progressive), 2 sealing rooms, and 1 baptistry",
       "Located at 5,349 feet elevation on a 2.69-acre site in the Jardines Tepeyac neighborhood of Zapopan",
@@ -5611,7 +5617,7 @@
     "country": "Ecuador",
     "state": "Guayas",
     "status": "Dedicated",
-    "address": "Calle Rosendo Maridue\u00f1a 8845, Urdesa Norte, 090510 Guayaquil, Ecuador",
+    "address": "Calle Rosendo Maridueña 8845, Urdesa Norte, 090510 Guayaquil, Ecuador",
     "coordinates": {
       "latitude": -2.1656,
       "longitude": -79.9063
@@ -6001,7 +6007,7 @@
     "country": "Finland",
     "state": "Uusimaa",
     "status": "Dedicated",
-    "address": "Lepp\u00e4sillantie 3, FI-02620 Espoo, Finland",
+    "address": "Leppäsillantie 3, FI-02620 Espoo, Finland",
     "coordinates": {
       "latitude": 60.225193,
       "longitude": 24.781785
@@ -6062,7 +6068,7 @@
     "country": "Mexico",
     "state": "Sonora",
     "status": "Dedicated",
-    "address": "General Pedro Garcia Conde No 303, Esquina Con Juan Jos\u00e9 R\u00edos, Colonia Pitic, 83150 Hermosillo, Sonora, Mexico",
+    "address": "General Pedro Garcia Conde No 303, Esquina Con Juan José Ríos, Colonia Pitic, 83150 Hermosillo, Sonora, Mexico",
     "coordinates": {
       "latitude": 29.102548,
       "longitude": -110.94687
@@ -6249,9 +6255,9 @@
   {
     "id": "huancayo-peru-temple",
     "name": "Huancayo Peru Temple",
-    "location": "Huancayo, Jun\u00edn Region, Peru",
+    "location": "Huancayo, Junín Region, Peru",
     "country": "Peru",
-    "state": "Jun\u00edn Region",
+    "state": "Junín Region",
     "status": "Announced",
     "address": "",
     "coordinates": {},
@@ -6263,7 +6269,7 @@
       }
     ],
     "facts": [
-      "First temple in the Jun\u00edn Region of Peru",
+      "First temple in the Junín Region of Peru",
       "Ninth temple announced or operating in Peru",
       "The city name 'Huancayo' means 'place of the rock' in Quechua",
       "Located approximately 190 miles east of Lima",
@@ -6488,7 +6494,7 @@
     "country": "Peru",
     "state": "Loreto",
     "status": "Announced",
-    "address": "Calle San Marcos 117\u2013137, San Juan Bautista, Iquitos, Loreto, Peru",
+    "address": "Calle San Marcos 117–137, San Juan Bautista, Iquitos, Loreto, Peru",
     "coordinates": {
       "latitude": -3.76081711,
       "longitude": -73.26756
@@ -6601,12 +6607,12 @@
   },
   {
     "id": "joao-pessoa-brazil-temple",
-    "name": "Jo\u00e3o Pessoa Brazil Temple",
-    "location": "Jo\u00e3o Pessoa, Para\u00edba, Brazil",
+    "name": "João Pessoa Brazil Temple",
+    "location": "João Pessoa, Paraíba, Brazil",
     "country": "Brazil",
-    "state": "Para\u00edba",
+    "state": "Paraíba",
     "status": "Under Construction",
-    "address": "Rua Paulino Pinto and Avenida Ministro Jos\u00e9 Am\u00e9rico de Almeida, Cabo Branco, Jo\u00e3o Pessoa\u2013PB, Brazil",
+    "address": "Rua Paulino Pinto and Avenida Ministro José Américo de Almeida, Cabo Branco, João Pessoa–PB, Brazil",
     "coordinates": {
       "latitude": -7.1242103,
       "longitude": -34.829102
@@ -6639,7 +6645,7 @@
       }
     ],
     "facts": [
-      "The Jo\u00e3o Pessoa Brazil Temple is the 22nd temple in Brazil and the first temple in the state of Para\u00edba.",
+      "The João Pessoa Brazil Temple is the 22nd temple in Brazil and the first temple in the state of Paraíba.",
       "The temple sits on a 3.9-acre (1.6-hectare) site in the Cabo Branco neighborhood at an elevation of 10 feet (3 meters).",
       "The temple will have a total floor area of 18,850 square feet (1,751 square meters) with a single attached central spire.",
       "At the time of the temple announcement, there were nearly 1.5 million Latter-day Saints in Brazil, making it one of the largest concentrations of Church members outside the United States.",
@@ -6761,8 +6767,8 @@
   },
   {
     "id": "juchitan-de-zaragoza-mexico-temple",
-    "name": "Juchit\u00e1n de Zaragoza Mexico Temple",
-    "location": "Juchit\u00e1n de Zaragoza, Oaxaca, Mexico",
+    "name": "Juchitán de Zaragoza Mexico Temple",
+    "location": "Juchitán de Zaragoza, Oaxaca, Mexico",
     "status": "Announced",
     "country": "Mexico",
     "state": "Oaxaca",
@@ -6780,7 +6786,7 @@
     ],
     "facts": [
       "The 26th temple announced for Mexico, which has over 1.5 million Latter-day Saints and nearly 1,900 congregations",
-      "Located in Juchit\u00e1n de Zaragoza on the southeast coast of Oaxaca state along the Pacific Ocean",
+      "Located in Juchitán de Zaragoza on the southeast coast of Oaxaca state along the Pacific Ocean",
       "At the time of announcement, Mexico had 15 existing dedicated temples with multiple temples in planning or construction stages",
       "Missionary work in Mexico began in 1875, nearly 150 years before this temple was announced",
       "The temple is currently in the planning and approval phase with no official site location or architectural rendering released yet"
@@ -6843,11 +6849,11 @@
   {
     "id": "kananga-democratic-republic-of-the-congo-temple",
     "name": "Kananga Democratic Republic of the Congo Temple",
-    "location": "Kananga, Kasa\u00ef-Central, Democratic Republic of the Congo",
+    "location": "Kananga, Kasaï-Central, Democratic Republic of the Congo",
     "status": "Announced",
     "country": "Democratic Republic of the Congo",
-    "state": "Kasa\u00ef-Central",
-    "address": "Avenue Ilunga and N1, Kananga, Kasa\u00ef-Central, Democratic Republic of the Congo",
+    "state": "Kasaï-Central",
+    "address": "Avenue Ilunga and N1, Kananga, Kasaï-Central, Democratic Republic of the Congo",
     "coordinates": {
       "latitude": -5.8957,
       "longitude": 22.4167
@@ -7490,7 +7496,10 @@
     "state": "Utah",
     "status": "Dedicated",
     "address": "1400 Oak Hills Dr, Layton, Utah 84040, United States",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 41.0624415,
+      "longitude": -111.9385147
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -7760,7 +7769,7 @@
     "country": "Portugal",
     "state": "Lisbon",
     "status": "Dedicated",
-    "address": "Avenida Dom Jo\u00e3o II, N\u00ba75, Parque Das Na\u00e7\u00f5es, 1990-364 Lisboa, Portugal",
+    "address": "Avenida Dom João II, Nº75, Parque Das Nações, 1990-364 Lisboa, Portugal",
     "coordinates": {
       "latitude": 38.779187,
       "longitude": -9.098784
@@ -7789,7 +7798,7 @@
     ],
     "facts": [
       "First temple built in Portugal and the 14th temple built in Europe",
-      "Located in Parque das Na\u00e7\u00f5es, a redeveloped area near Lisbon Metro that hosted the 1998 World Exposition",
+      "Located in Parque das Nações, a redeveloped area near Lisbon Metro that hosted the 1998 World Exposition",
       "Constructed with Portuguese Moleanos limestone exterior in Late Art Deco and Modern architectural style",
       "Features 23,730 square feet of floor area with a 143-foot spire topped by a gold-leafed Angel Moroni statue",
       "Bronze baptismal font oxen were molded from the Idaho Falls Temple oxen",
@@ -7946,11 +7955,11 @@
   {
     "id": "londrina-brazil-temple",
     "name": "Londrina Brazil Temple",
-    "location": "Londrina, Paran\u00e1, Brazil",
+    "location": "Londrina, Paraná, Brazil",
     "status": "Under Construction",
     "country": "Brazil",
-    "state": "Paran\u00e1",
-    "address": "Avenida Harry Prochet, Jardim S\u00e3o Jorge, Londrina\u2013PR, Brazil",
+    "state": "Paraná",
+    "address": "Avenida Harry Prochet, Jardim São Jorge, Londrina–PR, Brazil",
     "coordinates": {},
     "timeline": [
       {
@@ -7970,7 +7979,7 @@
       }
     ],
     "facts": [
-      "17th announced temple for Brazil and the second temple in Paran\u00e1 state",
+      "17th announced temple for Brazil and the second temple in Paraná state",
       "Total floor area of 32,000 square feet (2,973 square meters)",
       "Features a single attached central spire in a single-story design",
       "Contains two instruction rooms, two sealing rooms, and one baptistry",
@@ -8061,7 +8070,7 @@
     "facts": [
       "The Los Angeles California Temple was the first temple built in California and the 10th dedicated temple of the Church.",
       "At the time of construction, it was the largest temple of the Church with a total floor area of 190,614 square feet (17,709 sq m).",
-      "The temple stands 257 feet (78.3 meters) tall and features a 15\u00bd-foot angel Moroni statue sculpted by Millard F. Malin, placed in October 1954.",
+      "The temple stands 257 feet (78.3 meters) tall and features a 15½-foot angel Moroni statue sculpted by Millard F. Malin, placed in October 1954.",
       "The exterior is covered with 146,000 square feet of Mo-Sai stone facing on a 13-acre (5.3 hectare) site.",
       "Designed by architect Edward O. Anderson, it was the first temple to include a priesthood assembly room after the Salt Lake Temple and the last temple designed for live acting endowment presentation with hand-painted murals in progressive ordinance rooms.",
       "The public open house from December 19, 1955 to February 18, 1956 attracted 682,361 visitors over 61 days.",
@@ -8150,7 +8159,10 @@
     "country": "United States",
     "state": "Texas",
     "address": "7016 Frankford Ave, Lubbock, Texas 79424, United States",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 33.529081,
+      "longitude": -101.9413921
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -8218,8 +8230,8 @@
   },
   {
     "id": "maceio-brazil-temple",
-    "name": "Macei\u00f3 Brazil Temple",
-    "location": "Macei\u00f3, Alagoas, Brazil",
+    "name": "Maceió Brazil Temple",
+    "location": "Maceió, Alagoas, Brazil",
     "country": "Brazil",
     "state": "Alagoas",
     "status": "Announced",
@@ -8240,14 +8252,14 @@
         "by": ""
       }
     ],
-    "address": "Av. Durval de G\u00f3es Monteiro, Jardim Petropolis, Macei\u00f3\u2013AL, Brazil",
+    "address": "Av. Durval de Góes Monteiro, Jardim Petropolis, Maceió–AL, Brazil",
     "coordinates": {},
     "facts": [
-      "The Macei\u00f3 Brazil Temple will be the 15th temple built in Brazil, serving a nation with 1.5 million Latter-day Saints in over 2,100 congregations",
+      "The Maceió Brazil Temple will be the 15th temple built in Brazil, serving a nation with 1.5 million Latter-day Saints in over 2,100 congregations",
       "The temple features a single attached central spire design with an elevation of 229 feet (70 meters)",
       "The temple will have a total floor area of 19,000 square feet (1,765 square meters)",
-      "Located in Macei\u00f3, the capital and largest city of Alagoas state, which is known as a major port city and tourism destination",
-      "The temple site is located on Av. Durval de G\u00f3es Monteiro in the Jardim Petropolis neighborhood"
+      "Located in Maceió, the capital and largest city of Alagoas state, which is known as a major port city and tourism destination",
+      "The temple site is located on Av. Durval de Góes Monteiro in the Jardim Petropolis neighborhood"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/maceio-brazil-temple/maceio-brazil-temple-48800-main.jpg"
   },
@@ -8258,7 +8270,7 @@
     "country": "Spain",
     "state": "Madrid",
     "status": "Dedicated",
-    "address": "Calle del Templo N\u00b02, Madrid, 28030, Spain",
+    "address": "Calle del Templo N°2, Madrid, 28030, Spain",
     "coordinates": {
       "latitude": 40.4406,
       "longitude": -3.6369
@@ -8290,7 +8302,7 @@
       "The Madrid Spain Temple was the 7th temple built in Europe and the 1st in Spain, becoming the 56th operating temple of the Church.",
       "The temple exterior is finished with Italian Carrara Marble, the same prestigious material used in many classical European structures.",
       "Built on a 3.5-acre site with 45,800 square feet of floor area, the temple sits at an elevation of 2,236 feet (682 meters) above sea level.",
-      "The temple features a unique Lladr\u00f3 Christus statue figurine in the foyer, showcasing Spanish artisan craftsmanship from the famous Valencian porcelain manufacturer.",
+      "The temple features a unique Lladró Christus statue figurine in the foyer, showcasing Spanish artisan craftsmanship from the famous Valencian porcelain manufacturer.",
       "Missionary work in Spain became possible after a 1967 religious liberty law enabled official Church recognition, leading to this temple's construction three decades later.",
       "The temple complex includes patron housing, a distribution center, and an arrival center to serve members throughout Spain and surrounding regions.",
       "With 4 instruction rooms, 4 sealing rooms, and 1 baptistry, the temple uses a two-stage progressive endowment system."
@@ -8708,8 +8720,8 @@
   },
   {
     "id": "medellin-colombia-temple",
-    "name": "Medell\u00edn Colombia Temple",
-    "location": "Medell\u00edn, Colombia",
+    "name": "Medellín Colombia Temple",
+    "location": "Medellín, Colombia",
     "country": "Colombia",
     "state": "",
     "status": "Announced",
@@ -8724,11 +8736,11 @@
       }
     ],
     "facts": [
-      "Fourth temple announced for Colombia, joining the Barranquilla Colombia Temple, Bogot\u00e1 Colombia Temple, and Cali Colombia Temple",
+      "Fourth temple announced for Colombia, joining the Barranquilla Colombia Temple, Bogotá Colombia Temple, and Cali Colombia Temple",
       "Colombia has over 215,000 Latter-day Saints in nearly 260 congregations as of 2024",
       "The first missionaries arrived in Colombia in 1966, beginning the establishment of the Church in the country",
       "Temple is currently in the planning and approval phase with no groundbreaking date announced yet",
-      "Medell\u00edn is Colombia's second-largest city and a major metropolitan area in the Aburr\u00e1 Valley"
+      "Medellín is Colombia's second-largest city and a major metropolitan area in the Aburrá Valley"
     ]
   },
   {
@@ -8937,12 +8949,12 @@
   },
   {
     "id": "merida-mexico-temple",
-    "name": "M\u00e9rida Mexico Temple",
-    "location": "M\u00e9rida, Yucat\u00e1n, Mexico",
+    "name": "Mérida Mexico Temple",
+    "location": "Mérida, Yucatán, Mexico",
     "country": "Mexico",
-    "state": "Yucat\u00e1n",
+    "state": "Yucatán",
     "status": "Dedicated",
-    "address": "Calle 70 #527, Esq 65 y 67, Colonia Centro, 97000 M\u00e9rida, Yucatan, Mexico",
+    "address": "Calle 70 #527, Esq 65 y 67, Colonia Centro, 97000 Mérida, Yucatan, Mexico",
     "coordinates": {
       "latitude": 20.9674,
       "longitude": -89.6243
@@ -8970,14 +8982,14 @@
       }
     ],
     "facts": [
-      "The M\u00e9rida Mexico Temple was the 92nd dedicated temple of The Church of Jesus Christ of Latter-day Saints",
-      "The temple exterior is finished with Blanco Guardiano white marble sourced from Torre\u00f3n, Mexico",
-      "Located in the heart of Mesoamerica, near famous archaeological sites including Uxmal and Chich\u00e9n Itz\u00e1",
+      "The Mérida Mexico Temple was the 92nd dedicated temple of The Church of Jesus Christ of Latter-day Saints",
+      "The temple exterior is finished with Blanco Guardiano white marble sourced from Torreón, Mexico",
+      "Located in the heart of Mesoamerica, near famous archaeological sites including Uxmal and Chichén Itzá",
       "The groundbreaking ceremony was held on the same day as the Memphis Tennessee Temple groundbreaking",
       "The temple has a total floor area of 10,700 square feet (994 square meters) and sits on a 1.53-acre site",
       "Features two instruction rooms with two-stage progressive ordinances, two sealing rooms, and one baptistry",
       "The temple is topped with a single attached spire featuring the Angel Moroni statue",
-      "Located at an elevation of 34 feet (11 meters) in the historic Colonia Centro district of M\u00e9rida"
+      "Located at an elevation of 34 feet (11 meters) in the historic Colonia Centro district of Mérida"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/merida-mexico-temple/merida-mexico-temple-14119-main.jpg"
   },
@@ -9033,7 +9045,10 @@
     "state": "Arizona",
     "status": "Dedicated",
     "address": "101 S LeSueur, Mesa, Arizona 85204-1031, United States",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 33.412745,
+      "longitude": -111.820534
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -9080,7 +9095,7 @@
   },
   {
     "id": "mexico-city-benemerito-mexico-temple",
-    "name": "Mexico City Benem\u00e9rito Mexico Temple",
+    "name": "Mexico City Benemérito Mexico Temple",
     "location": "Mexico City, Mexico",
     "status": "Announced",
     "country": "Mexico",
@@ -9109,7 +9124,7 @@
     ],
     "facts": [
       "Will be the 19th temple in Mexico and the second temple in Mexico City, located about 10 miles from the existing Mexico City Mexico Temple",
-      "Located on the former grounds of the Benem\u00e9rito de las Am\u00e9ricas school and Missionary Training Center campus in Colonia Zona Escolar, Gustavo A. Madero",
+      "Located on the former grounds of the Benemérito de las Américas school and Missionary Training Center campus in Colonia Zona Escolar, Gustavo A. Madero",
       "Features a single attached central spire and will have a total floor area of 29,000 square feet (2,694 square meters)",
       "Situated at an elevation of 7,369 feet (2,246 meters) in a metropolitan area with nearly 9 million residents and will serve 1.5 million Latter-day Saints in over 1,800 congregations",
       "Will be the eighth temple built in the same city as another operating temple; missionary work in Mexico began in 1875"
@@ -9123,7 +9138,7 @@
     "country": "Mexico",
     "state": "Distrito Federal",
     "status": "Dedicated",
-    "address": "Avenida 510 N\u00b090, Col. San Juan de Aragon, 07950 M\u00e9xico, Distrito Federal, Mexico",
+    "address": "Avenida 510 N°90, Col. San Juan de Aragon, 07950 México, Distrito Federal, Mexico",
     "coordinates": {
       "latitude": 19.465905,
       "longitude": -99.086754
@@ -9157,7 +9172,7 @@
     ],
     "facts": [
       "First temple built in Mexico and the 26th operating temple of the Church",
-      "Second temple built in a Spanish-speaking country, following the S\u00e3o Paulo Brazil Temple",
+      "Second temple built in a Spanish-speaking country, following the São Paulo Brazil Temple",
       "At the time of dedication, it was the largest temple outside the United States with 116,642 square feet of floor space",
       "One of only five temples featuring an angel Moroni statue holding the gold plates",
       "Features ornate white cast stone exterior with Mayan-inspired designs, receiving an international award for artistic use of precast concrete",
@@ -9294,7 +9309,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "June 6, 2026",
-        "by": "Elder Jos\u00e9 A. Teixeira"
+        "by": "Elder José A. Teixeira"
       }
     ],
     "facts": [
@@ -9305,7 +9320,7 @@
       "Elevation: 3,137 feet (956 meters)",
       "Located in a region with over 50,000 Latter-day Saints and 125 congregations",
       "Will be accompanied by an ancillary building",
-      "Groundbreaking ceremony to be presided over by Elder Jos\u00e9 A. Teixeira, United States Central Area President"
+      "Groundbreaking ceremony to be presided over by Elder José A. Teixeira, United States Central Area President"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/missoula-montana-temple/missoula-montana-temple-56188-main.jpg"
   },
@@ -9873,7 +9888,7 @@
     "status": "Under Construction",
     "country": "Brazil",
     "state": "Rio Grande do Norte",
-    "address": "Av. Senador Salgado Filho (BR-101), Nova Parnamirim, Parnamirim\u2013RN, Brazil",
+    "address": "Av. Senador Salgado Filho (BR-101), Nova Parnamirim, Parnamirim–RN, Brazil",
     "coordinates": {},
     "timeline": [
       {
@@ -10127,8 +10142,8 @@
   },
   {
     "id": "noumea-new-caledonia-temple",
-    "name": "Noum\u00e9a New Caledonia Temple",
-    "location": "Noum\u00e9a, New Caledonia",
+    "name": "Nouméa New Caledonia Temple",
+    "location": "Nouméa, New Caledonia",
     "country": "New Caledonia",
     "state": "",
     "status": "Announced",
@@ -10146,7 +10161,7 @@
       "First temple to be built in New Caledonia",
       "Announced during the 195th Annual General Conference on April 6, 2025",
       "Will serve over 2,500 Latter-day Saints in the region",
-      "Noum\u00e9a is the capital city of New Caledonia with a population of approximately 100,000",
+      "Nouméa is the capital city of New Caledonia with a population of approximately 100,000",
       "New Caledonia is located in the southwestern Pacific Islands",
       "The first Church members in New Caledonia arrived from Tahiti",
       "The first stake in New Caledonia was organized in 2012",
@@ -10305,7 +10320,7 @@
     ],
     "facts": [
       "The temple was the 74th operating temple of The Church of Jesus Christ of Latter-day Saints and the 7th temple built in Mexico",
-      "The exterior is finished with beautiful white marble quarried from Torre\u00f3n, Mexico, giving it a distinctive and elegant appearance",
+      "The exterior is finished with beautiful white marble quarried from Torreón, Mexico, giving it a distinctive and elegant appearance",
       "Located at an elevation of 5,040 feet (1,536 meters), the temple sits in the mountainous region of southern Mexico",
       "The temple features a compact design with 10,700 square feet of floor space on a 1.87-acre site, including two instruction rooms (two-stage progressive), two sealing rooms, and one baptistry",
       "At the site dedication ceremony, Carl B. Pratt referenced Brigham Young's prophecy about hundreds of temples being built, emphasizing the temple's role in fulfilling that vision and its potential for missionary work in the region",
@@ -10861,11 +10876,11 @@
   {
     "id": "panama-city-panama-temple",
     "name": "Panama City Panama Temple",
-    "location": "Corozal, Ancon, Provincia de Panam\u00e1, Panama",
+    "location": "Corozal, Ancon, Provincia de Panamá, Panama",
     "country": "Panama",
-    "state": "Provincia de Panam\u00e1",
+    "state": "Provincia de Panamá",
     "status": "Dedicated",
-    "address": "Calle Rufina Alfaro #3172, Hacia La Villa de Cardenas, Corozal, Ancon, Provincia de Panam\u00e1, Panama",
+    "address": "Calle Rufina Alfaro #3172, Hacia La Villa de Cardenas, Corozal, Ancon, Provincia de Panamá, Panama",
     "coordinates": {
       "latitude": 8.9904517,
       "longitude": -79.5702866
@@ -10977,7 +10992,7 @@
     "name": "Paris France Temple",
     "location": "Le Chesnay, France",
     "country": "France",
-    "state": "\u00cele-de-France",
+    "state": "Île-de-France",
     "status": "Dedicated",
     "address": "46 Boulevard Saint Antoine, 78150 Le Chesnay, France",
     "coordinates": {
@@ -11014,7 +11029,7 @@
     "facts": [
       "First temple built in mainland France, becoming the 156th operating temple of The Church of Jesus Christ of Latter-day Saints",
       "First temple designed without an angel Moroni statue since the Oakland California Temple in 1964",
-      "Built on a 2.26-acre site previously leased by \u00c9lectricit\u00e9 de France (EDF), featuring warm-toned limestone exterior with a flat roof and central skylight",
+      "Built on a 2.26-acre site previously leased by Électricité de France (EDF), featuring warm-toned limestone exterior with a flat roof and central skylight",
       "Total floor area of 44,175 square feet with two instruction rooms, three sealing rooms, and one baptistry",
       "Open house attracted 47,561 visitors over 21 days, and the temple serves a region where Church membership grew from approximately 10,000 in 1976 to nearly 40,000 by 2017",
       "Located near the historic Palace of Versailles in Le Chesnay, with grounds featuring a marble reproduction of Thorvaldsen's Christus statue",
@@ -11310,7 +11325,7 @@
     "country": "Peru",
     "state": "Piura",
     "status": "Announced",
-    "address": "Intersection of Avenida Tallanes and Avenida Prolongaci\u00f3n, Piura, Peru",
+    "address": "Intersection of Avenida Tallanes and Avenida Prolongación, Piura, Peru",
     "coordinates": {
       "latitude": -5.16809371,
       "longitude": -80.626906
@@ -11473,9 +11488,9 @@
     "name": "Port-au-Prince Haiti Temple",
     "location": "Port-au-Prince, Haiti",
     "country": "Haiti",
-    "state": "P\u00e9tion-Ville",
+    "state": "Pétion-Ville",
     "status": "Dedicated",
-    "address": "Route de Fr\u00e8res, Fr\u00e8res 23, Impasse Saint-Marc #20 & 22, P\u00e9tion-Ville, Haiti",
+    "address": "Route de Frères, Frères 23, Impasse Saint-Marc #20 & 22, Pétion-Ville, Haiti",
     "coordinates": {
       "latitude": 18.529017,
       "longitude": -72.268143
@@ -11494,7 +11509,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "October 28, 2017",
-        "by": "Elder Walter F. Gonz\u00e1lez"
+        "by": "Elder Walter F. González"
       },
       {
         "milestone": "Public Open House",
@@ -11607,7 +11622,7 @@
     "status": "Dedicated",
     "country": "Brazil",
     "state": "Rio Grande do Sul",
-    "address": "Rua General Salvador Pinheiro, 50, Vila Jardim, 91320-240 Porto Alegre\u2013RS, Brazil",
+    "address": "Rua General Salvador Pinheiro, 50, Vila Jardim, 91320-240 Porto Alegre–RS, Brazil",
     "coordinates": {
       "latitude": -30.034047,
       "longitude": -51.157868
@@ -11924,7 +11939,10 @@
     "state": "Puebla",
     "status": "Dedicated",
     "address": "Av. 15 de Mayo # 719, Col. Los Cipreses, 72114 Puebla, Puebla, Mexico",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 19.075389,
+      "longitude": -98.2243881
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -12020,12 +12038,12 @@
   },
   {
     "id": "queretaro-mexico-temple",
-    "name": "Quer\u00e9taro Mexico Temple",
-    "location": "Quer\u00e9taro, Quer\u00e9taro, Mexico",
+    "name": "Querétaro Mexico Temple",
+    "location": "Querétaro, Querétaro, Mexico",
     "country": "Mexico",
-    "state": "Quer\u00e9taro",
+    "state": "Querétaro",
     "status": "Under Construction",
-    "address": "Prolongaci\u00f3n Tecnol\u00f3gico Norte 150, Colonia San Pablo, 76130 Quer\u00e9taro, Quer\u00e9taro, Mexico",
+    "address": "Prolongación Tecnológico Norte 150, Colonia San Pablo, 76130 Querétaro, Querétaro, Mexico",
     "coordinates": {
       "latitude": 20.61335562,
       "longitude": -100.410611
@@ -12039,7 +12057,7 @@
       {
         "milestone": "Site Dedicated/Groundbreaking",
         "date": "January 7, 2023",
-        "by": "Elder Adri\u00e1n Ochoa"
+        "by": "Elder Adrián Ochoa"
       }
     ],
     "facts": [
@@ -12048,7 +12066,7 @@
       "Total floor area of 27,500 square feet (2,555 square meters) across two stories",
       "Features a single attached central tower with distinctive architectural design",
       "Contains two instruction rooms, two sealing rooms, and one baptistry",
-      "Located across from Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey in Colonia San Pablo"
+      "Located across from Instituto Tecnológico y de Estudios Superiores de Monterrey in Colonia San Pablo"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/queretaro-mexico-temple/queretaro-mexico-temple-23845-main.jpg"
   },
@@ -12100,7 +12118,7 @@
   {
     "id": "quito-ecuador-temple",
     "name": "Quito Ecuador Temple",
-    "location": "Cumbay\u00e1, Quito, Ecuador",
+    "location": "Cumbayá, Quito, Ecuador",
     "country": "Ecuador",
     "state": "Pichincha",
     "status": "Dedicated",
@@ -12126,7 +12144,7 @@
         "by": "Quentin L. Cook"
       }
     ],
-    "address": "Ruta Viva y Escal\u00f3n Lumbis\u00ed, Esq., 170157 Cumbay\u00e1, Quito, Ecuador",
+    "address": "Ruta Viva y Escalón Lumbisí, Esq., 170157 Cumbayá, Quito, Ecuador",
     "coordinates": {
       "latitude": -0.213711,
       "longitude": -78.441018
@@ -12242,7 +12260,7 @@
     "country": "Brazil",
     "state": "Pernambuco",
     "status": "Dedicated",
-    "address": "Rua Dr. Jos\u00e9 de G\u00f3es, 280, Parnamirim, 52060-380 Recife\u2013PE, Brazil",
+    "address": "Rua Dr. José de Góes, 280, Parnamirim, 52060-380 Recife–PE, Brazil",
     "coordinates": {
       "latitude": -8.03639,
       "longitude": -34.911123
@@ -12272,7 +12290,7 @@
     "facts": [
       "The Recife Brazil Temple was the second temple built in Brazil and the 101st operating temple of the Church",
       "The temple sits on a 5.59-acre site at an elevation of 14 feet and features a single attached central spire topped with an Angel Moroni statue",
-      "The exterior is finished with Asa branca granite quarried from Cear\u00e1 state in northeastern Brazil",
+      "The exterior is finished with Asa branca granite quarried from Ceará state in northeastern Brazil",
       "The temple has a total floor area of 37,200 square feet and includes two instruction rooms, three sealing rooms, and one baptistry",
       "The 21-day public open house attracted thousands of visitors before the temple's dedication by President Gordon B. Hinckley"
     ],
@@ -12374,7 +12392,7 @@
     "facts": [
       "Built on original Church landholdings from the 1851 San Bernardino colony, with some rocks gathered from the historic 1851 pioneer campsite",
       "Over 15,000 people donated rocks for the temple's construction, including local members and out-of-state donors; Primary children painted rocks, wrote messages, and donated pennies for palm trees",
-      "Features light gray granite exterior with a single attached spire rising 130 feet (39.6 meters) tall, crowned by a 13\u00bd-foot Angel Moroni statue placed on March 13, 2003",
+      "Features light gray granite exterior with a single attached spire rising 130 feet (39.6 meters) tall, crowned by a 13½-foot Angel Moroni statue placed on March 13, 2003",
       "The temple has 17,300 square feet (1,607 square meters) of total floor area on a 4.6-acre (1.9-hectare) site at 1,722 feet (525 meters) elevation, with two instruction rooms, three sealing rooms, and one baptistry",
       "First temple built in the Inland Empire, fifth in California, third in Southern California, and the 116th operating temple of the Church; an art glass panel from a 1930 San Bernardino meetinghouse is displayed in the lobby"
     ],
@@ -12476,11 +12494,11 @@
   {
     "id": "retalhuleu-guatemala-temple",
     "name": "Retalhuleu Guatemala Temple",
-    "location": "San Sebasti\u00e1n, Retalhuleu, Guatemala",
+    "location": "San Sebastián, Retalhuleu, Guatemala",
     "country": "Guatemala",
     "state": "Retalhuleu",
     "status": "Announced",
-    "address": "Km. 182.5 RN-9, Caser\u00edo Puca I, San Sebasti\u00e1n, Retalhuleu, Guatemala",
+    "address": "Km. 182.5 RN-9, Caserío Puca I, San Sebastián, Retalhuleu, Guatemala",
     "coordinates": {},
     "timeline": [
       {
@@ -12504,7 +12522,7 @@
       "The temple site covers 5.51 acres (2.2 hectares) and is located at an elevation of 978 feet (298 meters) in southwestern Guatemala near the Pacific coast.",
       "The temple was announced by President Russell M. Nelson during the April 2023 General Conference on April 2, 2023.",
       "The architectural design features a single attached central tower with a flat roof, and the exterior rendering was released on March 31, 2025.",
-      "The temple is located in San Sebasti\u00e1n, Retalhuleu, a region that has been part of the Church's presence in Guatemala since the first missionaries arrived in 1947."
+      "The temple is located in San Sebastián, Retalhuleu, a region that has been part of the Church's presence in Guatemala since the first missionaries arrived in 1947."
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/retalhuleu-guatemala-temple/retalhuleu-guatemala-temple-58738-main.jpg"
   },
@@ -12579,12 +12597,12 @@
   },
   {
     "id": "ribeirao-preto-brazil-temple",
-    "name": "Ribeir\u00e3o Preto Brazil Temple",
-    "location": "Ribeir\u00e3o Preto, S\u00e3o Paulo, Brazil",
+    "name": "Ribeirão Preto Brazil Temple",
+    "location": "Ribeirão Preto, São Paulo, Brazil",
     "country": "Brazil",
-    "state": "S\u00e3o Paulo",
+    "state": "São Paulo",
     "status": "Under Construction",
-    "address": "Intersection of Avenida Ant\u00f4nio Mar\u00e7al and R. Jos\u00e9 Brandani, Ribeir\u00e3o Preto, S\u00e3o Paulo, Brazil",
+    "address": "Intersection of Avenida Antônio Marçal and R. José Brandani, Ribeirão Preto, São Paulo, Brazil",
     "coordinates": {},
     "timeline": [
       {
@@ -12610,7 +12628,7 @@
       "Located at an elevation of 2,011 feet (613 meters) above sea level",
       "Part of 18 temples announced for Brazil, serving a region with 1.5 million Latter-day Saints",
       "Construction is actively underway with the steeple frame already in place",
-      "Located at the intersection of Avenida Ant\u00f4nio Mar\u00e7al and R. Jos\u00e9 Brandani"
+      "Located at the intersection of Avenida Antônio Marçal and R. José Brandani"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/ribeirao-preto-brazil-temple/ribeirao-preto-brazil-temple-44186-main.jpg"
   },
@@ -12672,7 +12690,7 @@
     "country": "Brazil",
     "state": "Rio de Janeiro",
     "status": "Dedicated",
-    "address": "Avenida Das Am\u00e9ricas, N\u00ba 9005, 22793-083 Barra Da Tijuca, Rio De Janeiro\u2013RJ, Brazil",
+    "address": "Avenida Das Américas, Nº 9005, 22793-083 Barra Da Tijuca, Rio De Janeiro–RJ, Brazil",
     "coordinates": {
       "latitude": -23.000894,
       "longitude": -43.399918
@@ -12690,7 +12708,7 @@
       },
       {
         "milestone": "Public Open House",
-        "date": "March 26\u2013April 30, 2022",
+        "date": "March 26–April 30, 2022",
         "by": "35 days"
       },
       {
@@ -12702,7 +12720,7 @@
     "facts": [
       "8th temple built in Brazil and first temple in Rio de Janeiro state",
       "Located in Barra da Tijuca neighborhood next to a nature reserve",
-      "Built with Branco Cear\u00e1 granite from northeastern Brazil, featuring Art Deco influenced design",
+      "Built with Branco Ceará granite from northeastern Brazil, featuring Art Deco influenced design",
       "Total floor area of 29,966 square feet (2,784 square meters) on a 9.44-acre (3.8-hectare) site",
       "Features single attached end spire with angel Moroni statue reaching 155 feet 5 inches (47.4 meters) tall",
       "Contains two instruction rooms, two sealing rooms, and one baptistry",
@@ -12821,7 +12839,7 @@
     "status": "Announced",
     "country": "Argentina",
     "state": "Santa Fe",
-    "address": "City block bordered by G\u00fcemes, Santiago bis, and Alvear bis streets, Rosario, Argentina",
+    "address": "City block bordered by Güemes, Santiago bis, and Alvear bis streets, Rosario, Argentina",
     "coordinates": {
       "latitude": -32.93238111,
       "longitude": -60.65268
@@ -12839,9 +12857,9 @@
       }
     ],
     "facts": [
-      "Will be the 7th temple in Argentina, joining the Bah\u00eda Blanca, Buenos Aires, Buenos Aires City Center, C\u00f3rdoba, Mendoza, and Salta Argentina Temples",
+      "Will be the 7th temple in Argentina, joining the Bahía Blanca, Buenos Aires, Buenos Aires City Center, Córdoba, Mendoza, and Salta Argentina Temples",
       "Located in Rosario, approximately 190 miles northwest of Buenos Aires in east-central Argentina",
-      "The temple site is located on a 1.59-acre (0.6-hectare) city block bordered by G\u00fcemes, Santiago bis, and Alvear bis streets at an elevation of 78 feet (24 meters)",
+      "The temple site is located on a 1.59-acre (0.6-hectare) city block bordered by Güemes, Santiago bis, and Alvear bis streets at an elevation of 78 feet (24 meters)",
       "At the time of announcement in April 2024, Argentina had over 480,000 Latter-day Saints meeting in more than 725 congregations",
       "The first missionary work in Argentina began in 1923 by two German immigrants, establishing over a century of Church presence in the country"
     ],
@@ -12981,7 +12999,7 @@
     "country": "Argentina",
     "state": "Salta",
     "status": "Dedicated",
-    "address": "Av. Ingeniero Mario Saul Banchik N\u00ba 6050 (ex RN 51 km 4), Salta, Salta, Argentina",
+    "address": "Av. Ingeniero Mario Saul Banchik Nº 6050 (ex RN 51 km 4), Salta, Salta, Argentina",
     "coordinates": {
       "latitude": -24.837197,
       "longitude": -65.470001
@@ -12995,7 +13013,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "November 4, 2020",
-        "by": "Benjam\u00edn De Hoyos"
+        "by": "Benjamín De Hoyos"
       },
       {
         "milestone": "Public Open House",
@@ -13024,7 +13042,7 @@
     "country": "Brazil",
     "state": "Bahia",
     "status": "Dedicated",
-    "address": "Avenida Luis Viana Filho, 9636, 41650-500 Piata, Salvador\u2013BA, Brazil",
+    "address": "Avenida Luis Viana Filho, 9636, 41650-500 Piata, Salvador–BA, Brazil",
     "coordinates": {
       "latitude": -12.929251,
       "longitude": -38.386386
@@ -13058,10 +13076,10 @@
     ],
     "facts": [
       "The Salvador Brazil Temple is the 199th dedicated temple in operation and the 11th temple built in Brazil.",
-      "The temple is located on a 4.6-acre (1.9-hectare) site on a knoll on the main avenue through Bahia state, less than 5 miles from Lu\u00eds Eduardo Magalh\u00e3es International Airport.",
+      "The temple is located on a 4.6-acre (1.9-hectare) site on a knoll on the main avenue through Bahia state, less than 5 miles from Luís Eduardo Magalhães International Airport.",
       "The temple features Portuguese colonial-style architecture with a single attached central tower standing 148 feet 8 inches (45.3 meters) tall at an elevation of 82 feet (25 meters).",
       "The temple has a total floor area of 29,963 square feet (2,784 square meters) and includes two instruction rooms, two sealing rooms, and one baptistry.",
-      "Architectural features include art glass windows featuring the red mandacar\u00fa flower (a native Brazilian cactus) and decorative stone sourced from Brazil."
+      "Architectural features include art glass windows featuring the red mandacarú flower (a native Brazilian cactus) and decorative stone sourced from Brazil."
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/salvador-brazil-temple/salvador-brazil-temple-51668-main.jpg"
   },
@@ -13163,17 +13181,17 @@
   },
   {
     "id": "san-jose-costa-rica-temple",
-    "name": "San Jos\u00e9 Costa Rica Temple",
-    "location": "Bel\u00e9n, Heredia, Costa Rica",
+    "name": "San José Costa Rica Temple",
+    "location": "Belén, Heredia, Costa Rica",
     "country": "Costa Rica",
     "state": "Heredia",
     "status": "Dedicated",
-    "address": "Del Hotel Marriott 1.2 km al Oeste, La Ribera, 40702 Bel\u00e9n, Heredia, Costa Rica",
+    "address": "Del Hotel Marriott 1.2 km al Oeste, La Ribera, 40702 Belén, Heredia, Costa Rica",
     "coordinates": {
       "latitude": 9.9781,
       "longitude": -84.1772
     },
-    "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/_temp/087-San-Jos\u00e9-Costa-Rica-Temple.jpg",
+    "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/_temp/087-San-José-Costa-Rica-Temple.jpg",
     "timeline": [
       {
         "milestone": "Announced",
@@ -13197,11 +13215,11 @@
       }
     ],
     "facts": [
-      "The San Jos\u00e9 Costa Rica Temple was the 87th operating temple of The Church of Jesus Christ of Latter-day Saints and the second temple built in Central America.",
-      "The temple is constructed with Blanco Guardiano white marble from Torre\u00f3n, Mexico, and features a single attached spire topped with an Angel Moroni statue.",
+      "The San José Costa Rica Temple was the 87th operating temple of The Church of Jesus Christ of Latter-day Saints and the second temple built in Central America.",
+      "The temple is constructed with Blanco Guardiano white marble from Torreón, Mexico, and features a single attached spire topped with an Angel Moroni statue.",
       "With a total floor area of 10,700 square feet, the temple includes two instruction rooms (two-stage progressive), two sealing rooms, and one baptistry.",
       "The temple serves approximately 32,000 members across 5 stakes and 17 districts in Costa Rica, Nicaragua, and Panama.",
-      "Located at an elevation of 3,108 feet (947 meters) in Bel\u00e9n, Heredia, the temple sits on a 1.93-acre site and stands 71 feet tall."
+      "Located at an elevation of 3,108 feet (947 meters) in Belén, Heredia, the temple sits on a 1.93-acre site and stands 71 feet tall."
     ]
   },
   {
@@ -13250,7 +13268,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "May 4, 2019",
-        "by": "Walter F. Gonz\u00e1lez"
+        "by": "Walter F. González"
       },
       {
         "milestone": "Public Open House",
@@ -13278,12 +13296,12 @@
   },
   {
     "id": "san-luis-potosi-mexico-temple",
-    "name": "San Luis Potos\u00ed Mexico Temple",
-    "location": "San Luis Potos\u00ed, San Luis Potos\u00ed, Mexico",
+    "name": "San Luis Potosí Mexico Temple",
+    "location": "San Luis Potosí, San Luis Potosí, Mexico",
     "country": "Mexico",
-    "state": "San Luis Potos\u00ed",
+    "state": "San Luis Potosí",
     "status": "Dedicated",
-    "address": "Arboleda 100, Fraccionamiento del Parque, 78260 San Luis Potos\u00ed, San Luis Potos\u00ed, Mexico",
+    "address": "Arboleda 100, Fraccionamiento del Parque, 78260 San Luis Potosí, San Luis Potosí, Mexico",
     "coordinates": {
       "latitude": 22.15320582,
       "longitude": -101.01515
@@ -13329,11 +13347,11 @@
   {
     "id": "san-pedro-sula-honduras-temple",
     "name": "San Pedro Sula Honduras Temple",
-    "location": "San Pedro Sula, Cort\u00e9s, Honduras",
+    "location": "San Pedro Sula, Cortés, Honduras",
     "status": "Dedicated",
     "country": "Honduras",
-    "state": "Cort\u00e9s",
-    "address": "Blvd. Jose Antonio Peraza, Frente a Academia Americana al lado de Torre Banco del Pa\u00eds, Rumbo al Hospital Catarino Rivas, 21102 San Pedro Sula, Cort\u00e9s, Honduras",
+    "state": "Cortés",
+    "address": "Blvd. Jose Antonio Peraza, Frente a Academia Americana al lado de Torre Banco del País, Rumbo al Hospital Catarino Rivas, 21102 San Pedro Sula, Cortés, Honduras",
     "coordinates": {
       "latitude": 15.522544,
       "longitude": -88.036856
@@ -13347,7 +13365,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "September 5, 2020",
-        "by": "Elder Jos\u00e9 Bernardo Hern\u00e1ndez"
+        "by": "Elder José Bernardo Hernández"
       },
       {
         "milestone": "Public Open House",
@@ -13370,18 +13388,18 @@
       "The temple contains 4 instruction rooms, 3 sealing rooms, and 1 baptistry",
       "Church membership in Honduras grew from 6,300 in 1980 to 178,200 by 2019",
       "The temple is located at an elevation of 323 feet (99 meters)",
-      "At the groundbreaking ceremony, Elder Jos\u00e9 Bernardo Hern\u00e1ndez stated: 'Personal preparation [to go to the temple] will bring to our lives many unimaginable blessings'"
+      "At the groundbreaking ceremony, Elder José Bernardo Hernández stated: 'Personal preparation [to go to the temple] will bring to our lives many unimaginable blessings'"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/san-pedro-sula-honduras-temple/san-pedro-sula-honduras-temple-52518-main.jpg"
   },
   {
     "id": "san-salvador-el-salvador-temple",
     "name": "San Salvador El Salvador Temple",
-    "location": "Antiguo Cuscatl\u00e1n, La Libertad, El Salvador",
+    "location": "Antiguo Cuscatlán, La Libertad, El Salvador",
     "country": "El Salvador",
     "state": "La Libertad",
     "status": "Dedicated",
-    "address": "Avenida El Espino y Calle El Pedregal, Colonia San Benito, CP Antiguo Cuscatl\u00e1n, La Libertad, El Salvador",
+    "address": "Avenida El Espino y Calle El Pedregal, Colonia San Benito, CP Antiguo Cuscatlán, La Libertad, El Salvador",
     "coordinates": {
       "latitude": 13.683347,
       "longitude": -89.246822
@@ -13533,8 +13551,8 @@
     },
     "facts": [
       "First temple built in a Spanish-speaking country and the second temple built in South America",
-      "Features hand-carved wainscoting in the waiting area and door handles with Cop\u00edhue (Chile's national flower) motifs",
-      "The baptistry floor contains inlaid Chilean marble and lapisl\u00e1zuli, showcasing local materials",
+      "Features hand-carved wainscoting in the waiting area and door handles with Copíhue (Chile's national flower) motifs",
+      "The baptistry floor contains inlaid Chilean marble and lapislázuli, showcasing local materials",
       "Built on a 2.61-acre site originally intended for a Church school, with a total floor area of 20,831 square feet",
       "The temple has a single attached end spire rising 76 feet high with an Angel Moroni statue, and sits at an elevation of 1,950 feet",
       "Served 140,000 Chilean members at its first dedication in 1983 and over 535,000 members at its 2006 rededication",
@@ -13636,7 +13654,7 @@
       }
     ],
     "facts": [
-      "The Santiago West Chile Temple is the fourth temple built in Chile, following the Santiago Chile Temple (1983), the Concepci\u00f3n Chile Temple (2018), and the Antofagasta Chile Temple (2024).",
+      "The Santiago West Chile Temple is the fourth temple built in Chile, following the Santiago Chile Temple (1983), the Concepción Chile Temple (2018), and the Antofagasta Chile Temple (2024).",
       "This is the seventh temple to be built in a city that already has an existing temple, allowing greater access to temple ordinances for members in the Santiago area.",
       "The temple features a single attached central tower design, which is a distinctive architectural element visible from the surrounding community.",
       "The temple has a total floor area of 12,500 square feet (1,161 square meters) and includes one instruction room, one sealing room, and one baptistry.",
@@ -13652,7 +13670,7 @@
     "country": "Dominican Republic",
     "state": "Distrito Nacional",
     "status": "Dedicated",
-    "address": "Avenida Bolivar N\u00b0 825, Los Robles, 10106 Santo Domingo, Distrito Nacional, Dominican Republic",
+    "address": "Avenida Bolivar N° 825, Los Robles, 10106 Santo Domingo, Distrito Nacional, Dominican Republic",
     "coordinates": {
       "latitude": 18.466567,
       "longitude": -69.917144
@@ -13696,11 +13714,11 @@
   {
     "id": "santos-brazil-temple",
     "name": "Santos Brazil Temple",
-    "location": "Santos, S\u00e3o Paulo, Brazil",
+    "location": "Santos, São Paulo, Brazil",
     "status": "Under Construction",
     "country": "Brazil",
-    "state": "S\u00e3o Paulo",
-    "address": "Avenida Doutor Waldemar Le\u00e3o, 305, Jabaquara, Santos\u2013SP, Brazil",
+    "state": "São Paulo",
+    "address": "Avenida Doutor Waldemar Leão, 305, Jabaquara, Santos–SP, Brazil",
     "coordinates": {
       "latitude": -23.6467,
       "longitude": -46.5644
@@ -13731,19 +13749,19 @@
       "Will be the 16th temple constructed in Brazil, serving a country with 1.5 million Latter-day Saints in over 2,100 congregations",
       "Two-story building with a total floor area of 23,000 square feet (2,137 square meters)",
       "Will be constructed on the site of the existing Jabaquara Ward meetinghouse in Santos",
-      "Located in Santos, a southeastern port city in S\u00e3o Paulo state, at an elevation of 11 feet (4 meters)",
+      "Located in Santos, a southeastern port city in São Paulo state, at an elevation of 11 feet (4 meters)",
       "The groundbreaking ceremony is scheduled for August 1, 2026, to be presided over by Elder Ronald M. Barcellos of the Brazil Area Presidency"
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/santos-brazil-temple/santos-brazil-temple-71618-main.jpg"
   },
   {
     "id": "sao-paulo-brazil-temple",
-    "name": "S\u00e3o Paulo Brazil Temple",
-    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "name": "São Paulo Brazil Temple",
+    "location": "São Paulo, São Paulo, Brazil",
     "country": "Brazil",
-    "state": "S\u00e3o Paulo",
+    "state": "São Paulo",
     "status": "Dedicated",
-    "address": "Av. Prof. Francisco Morato, 2390, Caxingui, 05512-300 S\u00e3o Paulo-SP, Brazil",
+    "address": "Av. Prof. Francisco Morato, 2390, Caxingui, 05512-300 São Paulo-SP, Brazil",
     "coordinates": {
       "latitude": -23.585174,
       "longitude": -46.722764
@@ -13809,16 +13827,16 @@
       "Temple sits at an elevation of 2,416 feet (736 meters)",
       "The dedication sessions ran from October 30 to November 2, 1978, with multiple sessions conducted by President Spencer W. Kimball"
     ],
-    "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/_temp/017-S\u00e3o-Paulo-Brazil-Temple.jpg"
+    "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/_temp/017-São-Paulo-Brazil-Temple.jpg"
   },
   {
     "id": "sao-paulo-east-brazil-temple",
-    "name": "S\u00e3o Paulo East Brazil Temple",
-    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "name": "São Paulo East Brazil Temple",
+    "location": "São Paulo, São Paulo, Brazil",
     "status": "Announced",
     "country": "Brazil",
-    "state": "S\u00e3o Paulo",
-    "address": "Avenida Guilherme Giorgi, 1091, Vila Carr\u00e3o, 03422-001 S\u00e3o Paulo\u2013SP, Brazil",
+    "state": "São Paulo",
+    "address": "Avenida Guilherme Giorgi, 1091, Vila Carrão, 03422-001 São Paulo–SP, Brazil",
     "coordinates": {
       "latitude": -23.55518816,
       "longitude": -46.54444
@@ -13836,11 +13854,11 @@
       }
     ],
     "facts": [
-      "Will be the 12th temple built in Brazil and the 3rd temple in S\u00e3o Paulo state",
-      "Announced on October 4, 2020, coinciding with the 42nd anniversary of the S\u00e3o Paulo Brazil Temple dedication",
-      "Located on a 10.7-acre (4.3-hectare) site at elevation 2,564 feet (782 meters) in Vila Carr\u00e3o neighborhood",
+      "Will be the 12th temple built in Brazil and the 3rd temple in São Paulo state",
+      "Announced on October 4, 2020, coinciding with the 42nd anniversary of the São Paulo Brazil Temple dedication",
+      "Located on a 10.7-acre (4.3-hectare) site at elevation 2,564 feet (782 meters) in Vila Carrão neighborhood",
       "Planned total floor area of 46,050 square feet (4,278 square meters)",
-      "Will serve over 30 stakes of the Church in the S\u00e3o Paulo region, part of a country with approximately 1.5 million Latter-day Saints",
+      "Will serve over 30 stakes of the Church in the São Paulo region, part of a country with approximately 1.5 million Latter-day Saints",
       "Will be the 5th temple in a city with another operating temple and the 4th temple built outside the US in a metropolitan area with multiple temples",
       "Brazil operates 35 missions, second only to the United States, and had 277 stakes as of 2020",
       "Currently in planning and approval phase with no groundbreaking date announced; architectural renderings have not yet been publicly released"
@@ -14295,12 +14313,12 @@
       },
       {
         "milestone": "Public Open House",
-        "date": "August 6\u201314, 1999",
+        "date": "August 6–14, 1999",
         "by": ""
       },
       {
         "milestone": "Dedicated",
-        "date": "August 21\u201323, 1999",
+        "date": "August 21–23, 1999",
         "by": "Gordon B. Hinckley"
       },
       {
@@ -14476,7 +14494,10 @@
     "state": "Minnesota",
     "status": "Dedicated",
     "address": "2150 Hadley Ave N, Oakdale, Minnesota 55128-4505, United States",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 44.9802387,
+      "longitude": -92.9653684
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -14570,11 +14591,11 @@
   {
     "id": "stockholm-sweden-temple",
     "name": "Stockholm Sweden Temple",
-    "location": "V\u00e4sterhaninge, Sweden",
+    "location": "Västerhaninge, Sweden",
     "country": "Sweden",
     "state": "Stockholm County",
     "status": "Dedicated",
-    "address": "Tempelv\u00e4gen 5, SE-13742 V\u00e4sterhaninge, Sweden",
+    "address": "Tempelvägen 5, SE-13742 Västerhaninge, Sweden",
     "coordinates": {
       "latitude": 59.124676,
       "longitude": 18.109177
@@ -14608,11 +14629,11 @@
     ],
     "facts": [
       "The Stockholm Sweden Temple was the 4th temple built in Europe and the 1st temple built in the Nordic countries.",
-      "The temple was designed by Swedish architect John Sj\u00f6str\u00f6m to harmonize with local Scandinavian architecture and features six detached spires with an Angel Moroni statue.",
+      "The temple was designed by Swedish architect John Sjöström to harmonize with local Scandinavian architecture and features six detached spires with an Angel Moroni statue.",
       "Construction was delayed over a year due to the discovery of Viking graves on the temple site. During groundbreaking, a torch was used to cut through the ice so that the earth could be turned.",
       "During the 12-day public open house (June 10-22, 1985), 47,609 visitors toured the temple and 2,200 copies of the Book of Mormon were distributed.",
       "The temple dedicatory sessions were translated into 4 languages: Swedish, Finnish, Norwegian, and Danish. Gordon B. Hinckley said at the first dedicatory session: 'This is the most significant day in the history of the Church in Scandinavia.'",
-      "The temple is located on 4.47 acres (1.8 hectares) at an elevation of 138 feet (42 meters) in V\u00e4sterhaninge, Sweden.",
+      "The temple is located on 4.47 acres (1.8 hectares) at an elevation of 138 feet (42 meters) in Västerhaninge, Sweden.",
       "The temple closed for renovation on March 25, 2023, for an expected 3-year renovation that will nearly double its size from 16,366 to approximately 31,000 square feet and will feature two instruction rooms with 40 seats each.",
       "The temple district eventually expanded to include the Baltic States and Russia, serving Latter-day Saints across a vast geographic region."
     ],
@@ -15094,7 +15115,7 @@
     ],
     "facts": [
       "The Tampico Mexico Temple was the 83rd operating temple of the Church and the 7th in Mexico.",
-      "The temple exterior features Blanco Guardiano white marble quarried from Torre\u00f3n, Mexico, giving it a distinctive regional character.",
+      "The temple exterior features Blanco Guardiano white marble quarried from Torreón, Mexico, giving it a distinctive regional character.",
       "Built on a 2.96-acre site, the temple has a total floor area of 10,700 square feet and stands 71 feet tall with a single attached spire topped by an angel Moroni statue.",
       "The temple was built to serve approximately 18,000 members across 4 stakes, 3 districts, and the Mexico Tampico Mission, reducing the need for members to travel 500 miles over the Sierra Madres mountain range to the Mexico City Temple.",
       "The temple features a two-stage progressive ordinance room configuration with 2 instruction rooms, 2 sealing rooms, and 1 baptistry.",
@@ -15200,12 +15221,15 @@
   {
     "id": "tegucigalpa-honduras-temple",
     "name": "Tegucigalpa Honduras Temple",
-    "location": "Comayag\u00fcela, Francisco Moraz\u00e1n, Honduras",
+    "location": "Comayagüela, Francisco Morazán, Honduras",
     "status": "Dedicated",
     "country": "Honduras",
-    "state": "Francisco Moraz\u00e1n",
-    "address": "Residencial Roble Oeste, Boulevard Roble Oeste, 3ra Calle Sur, Comayag\u00fcela, M.D.C., Francisco Moraz\u00e1n, Honduras",
-    "coordinates": {},
+    "state": "Francisco Morazán",
+    "address": "Residencial Roble Oeste, Boulevard Roble Oeste, 3ra Calle Sur, Comayagüela, M.D.C., Francisco Morazán, Honduras",
+    "coordinates": {
+      "latitude": 14.057222,
+      "longitude": -87.241111
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -15235,7 +15259,7 @@
     ],
     "facts": [
       "First temple in Honduras and the sixth temple in Central America",
-      "The temple had two groundbreaking ceremonies at different locations - the first site near Universidad Nacional Aut\u00f3noma de Honduras was abandoned after local officials expressed concerns about proximity to the Our Lady of Suyapa Basilica, leading to relocation near Toncont\u00edn International Airport",
+      "The temple had two groundbreaking ceremonies at different locations - the first site near Universidad Nacional Autónoma de Honduras was abandoned after local officials expressed concerns about proximity to the Our Lady of Suyapa Basilica, leading to relocation near Toncontín International Airport",
       "Constructed with mountain gray granite imported from China, featuring a single attached central spire topped with an Angel Moroni statue",
       "The temple sits at an elevation of 3,498 feet (1,066 meters) and the spire reaches a height of 135 feet 2 inches (41.2 meters)",
       "Total floor area of 28,254 square feet (2,625 square meters) on a 13.6-acre site, with two instruction rooms, two sealing rooms, and one baptistry"
@@ -15245,11 +15269,11 @@
   {
     "id": "teresina-brazil-temple",
     "name": "Teresina Brazil Temple",
-    "location": "Teresina, Piau\u00ed, Brazil",
+    "location": "Teresina, Piauí, Brazil",
     "country": "Brazil",
-    "state": "Piau\u00ed",
+    "state": "Piauí",
     "status": "Under Construction",
-    "address": "Av. Raul Lopes and Rua Des. Pedro Conde, Noivos neighborhood, Teresina\u2013PI, Brazil",
+    "address": "Av. Raul Lopes and Rua Des. Pedro Conde, Noivos neighborhood, Teresina–PI, Brazil",
     "coordinates": {},
     "timeline": [
       {
@@ -15273,7 +15297,7 @@
       "Total floor area will be 25,420 square feet (2,362 square meters)",
       "The temple will feature a single attached central spire",
       "Located at an elevation of 213 feet (65 meters)",
-      "Teresina is the capital of Piau\u00ed state in Northern Brazil, near a conurbation of nearly 1 million residents",
+      "Teresina is the capital of Piauí state in Northern Brazil, near a conurbation of nearly 1 million residents",
       "At the time of announcement, Brazil had nearly 1.5 million Latter-day Saints in about 2,175 congregations",
       "Teresina is one of nine additional cities where temples are planned for construction in Brazil as part of a broader expansion"
     ],
@@ -15305,12 +15329,12 @@
       {
         "milestone": "Groundbreaking",
         "date": "June 1, 2024",
-        "by": "Elder Ricardo P. Gim\u00e9nez (Second Counselor, North America Central Area Presidency)"
+        "by": "Elder Ricardo P. Giménez (Second Counselor, North America Central Area Presidency)"
       }
     ],
     "facts": [
       "The 9th temple in Idaho",
-      "Located 3\u00bd miles from the existing Rexburg Idaho Temple, making Rexburg the smallest city in the world with two temples (population approximately 39,500)",
+      "Located 3½ miles from the existing Rexburg Idaho Temple, making Rexburg the smallest city in the world with two temples (population approximately 39,500)",
       "Site area of 16.6 acres (6.7 hectares) at an elevation of 4,876 feet (1,486 meters)",
       "Total floor area of 100,000 square feet (9,290 square meters) across three stories",
       "Features a single attached central spire with four instruction rooms, six sealing rooms, and one baptistry",
@@ -15357,7 +15381,7 @@
       "The temple was the 132nd dedicated temple and was announced by Thomas S. Monson during his first temple announcement as Church president",
       "Built on two of four Church-owned baseball fields in Central, Arizona, with groundbreaking shovels specifically arranged to break ground where the Celestial Room would be located",
       "Features a single attached end spire rising 104 feet (31.7 meters) high with an Angel Moroni statue, and an exterior finished in architectural precast stone",
-      "The 18,561 square foot temple sits on a 17-acre site at the foot of Mount Graham (Pinale\u00f1o Mountains) at an elevation of 2,893 feet",
+      "The 18,561 square foot temple sits on a 17-acre site at the foot of Mount Graham (Pinaleño Mountains) at an elevation of 2,893 feet",
       "During the public open house, 90,865 visitors toured the temple, generating 1,299 comment cards and 139 missionary referrals",
       "Serves approximately 32,000 members from seven stakes across southeastern Arizona and southwestern New Mexico, located in the hometown area of President Spencer W. Kimball",
       "Contains two instruction rooms (two-stage progressive), two sealing rooms, and one baptistry"
@@ -15415,7 +15439,10 @@
     "state": "Baja California",
     "status": "Dedicated",
     "address": "Paseo Del Rio 6832, Esquina Campestre Oriente, Col 3 RA Etapa Rio Tijuana, 22226 Tijuana, Baja California, Mexico",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": 32.4635575,
+      "longitude": -116.9120345
+    },
     "timeline": [
       {
         "milestone": "Announced",
@@ -15425,7 +15452,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "August 18, 2012",
-        "by": "Benjam\u00edn De Hoyos"
+        "by": "Benjamín De Hoyos"
       },
       {
         "milestone": "Public Open House",
@@ -15443,7 +15470,7 @@
       "The temple sits on a 9.4-acre (3.8-hectare) site with a total floor area of 33,367 square feet (3,100 square meters) and stands 151 feet (46 meters) tall.",
       "The temple features Spanish Colonial architectural influence with precast concrete cladding exterior, and won the PCI Design Award for Best International Building Structure in 2015.",
       "Interior appointments include marble staircases, wrought iron railings, dark wooden doors, and colorful tiles. The temple has two instruction rooms (two-stage progressive), two sealing rooms, and one baptistry.",
-      "The temple is located near Cerro Colorado, which features large letters spelling 'JESUCRISTO ES EL SE\u00d1OR' (Jesus Christ is the Lord) visible from the temple site."
+      "The temple is located near Cerro Colorado, which features large letters spelling 'JESUCRISTO ES EL SEÑOR' (Jesus Christ is the Lord) visible from the temple site."
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/tijuana-mexico-temple/tijuana-mexico-temple-14590-main.jpg"
   },
@@ -15522,7 +15549,7 @@
     "status": "Announced",
     "country": "Mexico",
     "state": "Estado de Mexico",
-    "address": "Calle Guadalupe Vict\u00f3ria and Calle Uruap\u00e1n, Colonia Las Jaras, 52166 Metepec, Estado de Mexico, Mexico",
+    "address": "Calle Guadalupe Victória and Calle Uruapán, Colonia Las Jaras, 52166 Metepec, Estado de Mexico, Mexico",
     "coordinates": {
       "latitude": 19.25230253,
       "longitude": -99.626874
@@ -15624,12 +15651,12 @@
   },
   {
     "id": "torreon-mexico-temple",
-    "name": "Torre\u00f3n Mexico Temple",
-    "location": "G\u00f3mez Palacio, Durango, Mexico",
+    "name": "Torreón Mexico Temple",
+    "location": "Gómez Palacio, Durango, Mexico",
     "country": "Mexico",
     "state": "Durango",
     "status": "Under Construction",
-    "address": "Par\u00eds 266, El Campestre, 35080 G\u00f3mez Palacio, Durango, Mexico",
+    "address": "París 266, El Campestre, 35080 Gómez Palacio, Durango, Mexico",
     "coordinates": {
       "latitude": 25.55331849,
       "longitude": -103.499227
@@ -15650,7 +15677,7 @@
       "This will be Mexico's 16th temple, serving a region with approximately 1.5 million Latter-day Saints",
       "Total floor area of 10,000 square feet (929 square meters) with a single-story design and single attached central tower",
       "Features one instruction room, one sealing room, and one baptistry",
-      "Located at the corner of Paris and Amsterdam Streets in G\u00f3mez Palacio, which is part of a metropolitan area straddling both Coahuila and Durango states",
+      "Located at the corner of Paris and Amsterdam Streets in Gómez Palacio, which is part of a metropolitan area straddling both Coahuila and Durango states",
       "The 0.89-acre (0.4 hectare) site sits at an elevation of 3,726 feet (1,136 meters)",
       "Plans include an ancillary building for patron accommodations, distribution center, and temple president residence, plus an expanded meetinghouse with arrival center",
       "Major construction has been completed and finishing touches are being applied as of the latest update"
@@ -15687,7 +15714,10 @@
       }
     ],
     "address": "Av. Mansiche Km 3.5, Carretera hacia Huanchaco, Huanchaco, Trujillo, La Libertad, Peru",
-    "coordinates": {},
+    "coordinates": {
+      "latitude": -8.100998,
+      "longitude": -79.0572593
+    },
     "facts": [
       "The Trujillo Peru Temple is the second temple built in Peru and the 147th operating temple of The Church of Jesus Christ of Latter-day Saints",
       "Built on an 8.9-acre site at an elevation of 126 feet, the temple has a total floor area of 28,200 square feet",
@@ -15855,12 +15885,12 @@
   },
   {
     "id": "tuxtla-gutierrez-mexico-temple",
-    "name": "Tuxtla Guti\u00e9rrez Mexico Temple",
-    "location": "Tuxtla Guti\u00e9rrez, Chiapas, Mexico",
+    "name": "Tuxtla Gutiérrez Mexico Temple",
+    "location": "Tuxtla Gutiérrez, Chiapas, Mexico",
     "country": "Mexico",
     "state": "Chiapas",
     "status": "Dedicated",
-    "address": "Carretera a Chicoas\u00e9n Kilometro 1.4, Esq. Paseo de la Roseta, Fraccionamiento San Jos\u00e9 Chapultepec, 29047 Tuxtla Guti\u00e9rrez, Chiapas, Mexico",
+    "address": "Carretera a Chicoasén Kilometro 1.4, Esq. Paseo de la Roseta, Fraccionamiento San José Chapultepec, 29047 Tuxtla Gutiérrez, Chiapas, Mexico",
     "coordinates": {
       "latitude": 16.764164,
       "longitude": -93.159155
@@ -15893,12 +15923,12 @@
       }
     ],
     "facts": [
-      "The Tuxtla Guti\u00e9rrez Mexico Temple was the 75th dedicated temple of The Church of Jesus Christ of Latter-day Saints and the first temple built in Chiapas, Mexico.",
-      "The temple's exterior is finished with white marble from Torre\u00f3n, Mexico, featuring a single attached spire topped with an Angel Moroni statue.",
+      "The Tuxtla Gutiérrez Mexico Temple was the 75th dedicated temple of The Church of Jesus Christ of Latter-day Saints and the first temple built in Chiapas, Mexico.",
+      "The temple's exterior is finished with white marble from Torreón, Mexico, featuring a single attached spire topped with an Angel Moroni statue.",
       "The groundbreaking ceremony on March 20, 1999, occurred simultaneously with the Fresno California, Fukuoka Japan, and Melbourne Australia temples.",
       "The temple site covers 1.56 acres with a total floor area of 10,700 square feet, containing two instruction rooms (two-stage progressive), two sealing rooms, and one baptistry.",
       "The temple is located in Chiapas, which borders Guatemala and is historically rich in archaeological sites. The area was dedicated for gospel preaching in 1957 by Elder Howard W. Hunter on Mactumatza mountain.",
-      "The temple sits at an elevation of 1,883 feet (574 meters) in the Fraccionamiento San Jos\u00e9 Chapultepec neighborhood of Tuxtla Guti\u00e9rrez."
+      "The temple sits at an elevation of 1,883 feet (574 meters) in the Fraccionamiento San José Chapultepec neighborhood of Tuxtla Gutiérrez."
     ],
     "imageUrl": "https://churchofjesuschristtemples.org/assets/img/temples/tuxtla-gutierrez-mexico-temple/tuxtla-gutierrez-mexico-temple-15226-main.jpg"
   },
@@ -16037,10 +16067,10 @@
   {
     "id": "uturoa-french-polynesia-temple",
     "name": "Uturoa French Polynesia Temple",
-    "location": "Uturoa, Ra'i\u0101tea, French Polynesia",
+    "location": "Uturoa, Ra'iātea, French Polynesia",
     "status": "Announced",
     "country": "French Polynesia",
-    "state": "Ra'i\u0101tea",
+    "state": "Ra'iātea",
     "address": "Address not yet announced",
     "coordinates": {},
     "timeline": [
@@ -16053,7 +16083,7 @@
     "facts": [
       "This will be the second temple in French Polynesia, following the Papeete Tahiti Temple",
       "Will serve nearly 30,000 Latter-day Saints in approximately 100 congregations throughout French Polynesia",
-      "The temple is located on Ra'i\u0101tea island, which is the second-largest of the Society Islands in French Polynesia",
+      "The temple is located on Ra'iātea island, which is the second-largest of the Society Islands in French Polynesia",
       "Missionaries first arrived in Tahiti in 1843, establishing a long history of the Church in French Polynesia",
       "The Papeete Tahiti Temple, the region's first temple, was dedicated in 1983 and rededicated in 2006"
     ],
@@ -16219,7 +16249,7 @@
       "The 93rd dedicated temple of The Church of Jesus Christ of Latter-day Saints",
       "Built on a 3.39-acre site at an elevation of 48 feet above sea level",
       "Total floor area of 10,700 square feet featuring a two-stage progressive instruction room configuration",
-      "Exterior finished with Blanco Guardiano white marble quarried from Torre\u00f3n, Mexico",
+      "Exterior finished with Blanco Guardiano white marble quarried from Torreón, Mexico",
       "Features a single attached spire crowned with an angel Moroni statue",
       "Contains 2 instruction rooms, 2 sealing rooms, and 1 baptistry",
       "Groundbreaking ceremony was held simultaneously with Adelaide Australia Temple and Louisville Kentucky Temple on May 29, 1999",
@@ -16394,10 +16424,10 @@
     ],
     "facts": [
       "The Villahermosa Mexico Temple was the 85th operating temple of the Church and the 6th temple built in Mexico.",
-      "The temple is constructed with Blanco Guardiano white marble from Torre\u00f3n, Mexico, giving it a distinctive bright white exterior finish.",
+      "The temple is constructed with Blanco Guardiano white marble from Torreón, Mexico, giving it a distinctive bright white exterior finish.",
       "The temple site covers 1.36 acres (0.6 hectares) with a total floor area of 10,700 square feet (994 square meters).",
       "The temple features a single attached spire rising to 71 feet (21.6 meters) in height, topped with an Angel Moroni statue.",
-      "The groundbreaking ceremony occurred on the same day as the Ciudad Ju\u00e1rez Mexico Temple (January 9, 1999), and it was dedicated on the same day as the Nashville Tennessee Temple (May 21, 2000).",
+      "The groundbreaking ceremony occurred on the same day as the Ciudad Juárez Mexico Temple (January 9, 1999), and it was dedicated on the same day as the Nashville Tennessee Temple (May 21, 2000).",
       "The temple follows a two-stage progressive ordinance format with 2 instruction rooms and 2 sealing rooms, plus 1 baptistry.",
       "The temple sits at an elevation of 62 feet (19 meters) above sea level in Villahermosa, the capital city of Tabasco state.",
       "The temple includes an arrival center and on-site distribution center, though it does not have a visitors' center or patron housing facilities."
@@ -16405,12 +16435,12 @@
   },
   {
     "id": "vina-del-mar-chile-temple",
-    "name": "Vi\u00f1a del Mar Chile Temple",
-    "location": "Vi\u00f1a del Mar, Valpara\u00edso Region, Chile",
+    "name": "Viña del Mar Chile Temple",
+    "location": "Viña del Mar, Valparaíso Region, Chile",
     "status": "Announced",
     "country": "Chile",
-    "state": "Valpara\u00edso Region",
-    "address": "Tres Norte, 1105, Vi\u00f1a del Mar, Chile",
+    "state": "Valparaíso Region",
+    "address": "Tres Norte, 1105, Viña del Mar, Chile",
     "coordinates": {
       "latitude": -33.0245,
       "longitude": -71.5516
@@ -16428,23 +16458,23 @@
       }
     ],
     "facts": [
-      "Will be the first temple in the Valpara\u00edso region and the fifth temple in Chile",
+      "Will be the first temple in the Valparaíso region and the fifth temple in Chile",
       "Site is 1.87 acres (0.8 hectares) with planned total floor area of 30,000 square feet (2,787 square meters)",
-      "Located on the site of the existing Vi\u00f1a del Mar Chile Stake center at elevation of 52 feet (16 meters)",
-      "Vi\u00f1a del Mar is the fourth-largest city in Chile with around 300,000 residents, part of the Valpara\u00edso metropolitan area",
-      "The Valpara\u00edso region has over 600,000 Latter-day Saints in 575 congregations",
-      "Site is located between 3rd North Street and 4th North Street near 4\u00bd West in Vi\u00f1a del Mar"
+      "Located on the site of the existing Viña del Mar Chile Stake center at elevation of 52 feet (16 meters)",
+      "Viña del Mar is the fourth-largest city in Chile with around 300,000 residents, part of the Valparaíso metropolitan area",
+      "The Valparaíso region has over 600,000 Latter-day Saints in 575 congregations",
+      "Site is located between 3rd North Street and 4th North Street near 4½ West in Viña del Mar"
     ],
     "imageUrl": ""
   },
   {
     "id": "vitoria-brazil-temple",
-    "name": "Vit\u00f3ria Brazil Temple",
-    "location": "Vit\u00f3ria, Esp\u00edrito Santo, Brazil",
+    "name": "Vitória Brazil Temple",
+    "location": "Vitória, Espírito Santo, Brazil",
     "status": "Announced",
     "country": "Brazil",
-    "state": "Esp\u00edrito Santo",
-    "address": "Avenida Leit\u00e3o da Silva #2055, Iterar\u00e9, Vit\u00f3ria\u2013ES, Brazil",
+    "state": "Espírito Santo",
+    "address": "Avenida Leitão da Silva #2055, Iteraré, Vitória–ES, Brazil",
     "coordinates": {
       "latitude": -20.29637999,
       "longitude": -40.304767
@@ -16462,13 +16492,13 @@
       }
     ],
     "facts": [
-      "The Vit\u00f3ria Brazil Temple is the 14th announced temple for Brazil",
+      "The Vitória Brazil Temple is the 14th announced temple for Brazil",
       "The temple will have a total floor area of 10,600 square feet (985 square meters)",
       "The temple layout includes one instruction room, one sealing room, and one baptistry",
-      "Located near the Santa Maria de Vit\u00f3ria River in the coastal community of Vit\u00f3ria, which has two major ports",
+      "Located near the Santa Maria de Vitória River in the coastal community of Vitória, which has two major ports",
       "The temple site has been cleared and former buildings demolished in preparation for construction",
       "No architectural rendering of the temple has been publicly released yet",
-      "Vit\u00f3ria is the capital city of Esp\u00edrito Santo state in southeastern Brazil",
+      "Vitória is the capital city of Espírito Santo state in southeastern Brazil",
       "The temple was announced during the October 2021 General Conference by President Russell M. Nelson"
     ],
     "imageUrl": ""
@@ -16661,7 +16691,7 @@
       {
         "milestone": "Groundbreaking",
         "date": "October 29, 2022",
-        "by": "Elder Valeri V. Cord\u00f3n"
+        "by": "Elder Valeri V. Cordón"
       },
       {
         "milestone": "Public Open House",
