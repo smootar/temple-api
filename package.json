@@ -7,7 +7,7 @@
     "scrape": "node scripts/scrape_temples.js",
     "validate": "node scripts/validate_data.js",
     "build": "node scripts/build_api.js",
-    "test": "echo \"No tests yet\" && exit 0"
+    "test": "node --test tests/*.test.js"
   },
   "repository": {
     "type": "git",
